@@ -1,0 +1,271 @@
+/* ...existing code... */
+
+/* ensure root fills viewport and no default margins */
+html, body, #root {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+/* full-viewport background and centered content */
+.home-page {
+  width: 100vw;
+  min-height: 100vh;
+  background-image: url("../images/china.jpg"); /* hoặc dùng inline import trong Home.tsx */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  display: flex;
+  align-items: center;       /* căn giữa theo chiều dọc */
+  justify-content: center;   /* căn giữa theo chiều ngang */
+  font-family: Inter, Arial, sans-serif;
+  color: #eaeef0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.center-wrap {
+  width: min(1100px, 92%);
+  text-align: center;
+  margin: 0; /* remove previous negative top margin */
+}
+
+.logo-box {
+  display: inline-block;
+  background: rgba(0,0,0,0.55);
+  padding: 20px 28px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.5);
+}
+.logo-box .g {
+  font-size: 48px;
+  font-weight: 700;
+  margin: 0 2px;
+  line-height: 1;
+}
+.g1 { color:#4285F4 } .g2 { color:#DB4437 } .g3 { color:#F4B400 } .g4 { color:#4285F4 } .g5 { color:#0F9D58 } .g6 { color:#DB4437 }
+
+.search-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  margin: 18px 0 28px 0;
+}
+.search-input {
+  width: 680px;
+  max-width: 78%;
+  padding: 12px 18px;
+  border-radius: 28px;
+  border: none;
+  background: rgba(255,255,255,0.95);
+  color: #111;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.25);
+  outline: none;
+  font-size: 16px;
+}
+.mic {
+  background: transparent;
+  border: none;
+  padding: 6px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.mic-icon {
+  width: 28px;    /* điều chỉnh kích thước theo cần */
+  height: 28px;
+  display: block;
+  object-fit: contain;
+}
+
+.shortcuts {
+  display: flex;
+  justify-content: center;
+  gap: 22px;
+  flex-wrap: wrap;
+  margin: 18px 0 36px 0;
+}
+.shortcut {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 76px;
+}
+.shortcut-icon {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.06);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  font-size: 26px;
+  box-shadow: 0 6px 14px rgba(0,0,0,0.4);
+}
+.shortcut-label {
+  margin-top: 8px;
+  font-size: 13px;
+  color: #000000;      /* chữ màu đen */
+  font-weight: 700;    /* in đậm */
+  text-shadow: none;   /* bỏ bóng mờ nếu có */
+  opacity: 1;          /* đảm bảo không bị mờ */
+}
+
+.continue-card {
+  background: rgba(40,57,61,0.84);
+  border-radius: 12px;
+  padding: 18px;
+  max-width: 880px;
+  margin: 0 auto 80px;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+  text-align: left;
+}
+.card-header {
+  font-weight: 600;
+  margin-bottom: 12px;
+  color: #d7e7e9;
+}
+.card-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.card-list li {
+  background: rgba(255,255,255,0.03);
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 10px;
+}
+.card-item-title { font-weight: 600; color: #e8f3f4 }
+.card-item-sub { font-size: 13px; color: #9fb0b2; margin-top: 6px; }
+
+/* wrapper cho shortcut có scroll khi nhiều item */
+.shortcuts-wrap {
+  width: 100%;
+  max-height: 42vh;     /* thay đổi nếu muốn cao hơn/thấp hơn */
+  overflow-y: auto;
+  display: flex;
+  justify-content: center;
+  padding: 10px 4px;
+  box-sizing: border-box;
+}
+
+/* nội dung shortcut (giữ layout hiện tại) */
+.shortcuts {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 22px;
+  width: min(1100px, 92%);
+}
+
+/* tuỳ chỉnh scrollbar (webkit) */
+.shortcuts-wrap::-webkit-scrollbar {
+  width: 10px;
+}
+.shortcuts-wrap::-webkit-scrollbar-thumb {
+  background: rgba(0,0,0,0.18);
+  border-radius: 8px;
+}
+.shortcuts-wrap::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* optional: đảm bảo mỗi shortcut có label hiển thị */
+.shortcut-label {
+  margin-top: 8px;
+  font-size: 13px;
+  color: #000;
+  font-weight: 700;
+}
+
+.logo-box {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto 18px auto; /* khoảng cách phía dưới header */
+  padding: 22px 28px;
+  background: linear-gradient(180deg, #f8cda0 0%, #f3b977 100%); /* màu cam */
+  border-radius: 40px;
+  border: 4px dashed rgba(200,60,60,0.45); /* viền nhấp nháy giống mẫu */
+  box-shadow: 0 8px 20px rgba(0,0,0,0.15);
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  box-sizing: border-box;
+}
+
+.site-title {
+  font-size: 56px;
+  font-weight: 700;
+  color: #3b2b1f;
+  line-height: 1;
+  letter-spacing: 2px;
+}
+
+/* đảm bảo search-row nằm ngay dưới header và không chồng */
+.search-row {
+  display:flex;
+  align-items:center;
+  justify-content:center;
+  gap:10px;
+  margin-top: 8px; /* khoảng cách giữa header và input */
+}
+
+/* nếu trước đó có vị trí tuyệt đối cho search-input, bỏ nó */
+.search-input {
+  position: relative;
+  z-index: 2;
+}
+.search-row .search-input {
+  height: 56px;               /* chọn chiều cao mong muốn */
+  padding: 12px 18px;         /* padding ngang/ dọc */
+  padding-right: 80px;        /* giữ khoảng cho button nếu cần */
+  border-radius: 28px;
+  box-sizing: border-box;
+  font-size: 15px;
+}
+
+/* đặt button có cùng chiều cao với input và căn giữa icon */
+.search-row .mic {
+  height: 56px;               /* match input height */
+  width: 56px;                /* vuông để icon nằm tâm */
+  margin-left: -64px;         /* kéo button lên gần input (tinh chỉnh nếu cần) */
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  box-sizing: border-box;
+  z-index: 3;
+}
+
+/* kích thước ảnh bên trong button */
+.search-row .mic .mic-icon {
+  width: 28px;                /* kích thước icon bên trong */
+  height: 28px;
+  object-fit: contain;
+  display: block;
+}
+.search-row { position: relative; }
+
+/* căn giữa cả placeholder và văn bản nhập */
+.search-input {
+  text-align: left; /* căn chữ sang trái */
+  height: 56px; /* chiều cao của input */
+  line-height: 56px; /* căn giữa theo chiều dọc */
+  box-sizing: border-box;
+  padding-left: 8px; /* giảm padding để chữ sát trái */
+  padding-right: 18px; /* giữ khoảng cách với nút search */
+}
+/* responsive */
+@media (max-width: 720px) {
+  .search-input { width: 100%; }
+  .shortcuts { gap: 14px; }
+  .shortcut { width: 60px; }
+}
