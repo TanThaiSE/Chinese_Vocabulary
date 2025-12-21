@@ -1,4 +1,4 @@
-import React, { useMemo, useState } from "react"
+import { useMemo, useState } from "react"
 import "./Home.css"
 import bg from "../images/china.jpg"
 import searchIcon from "../images/iconsearch.jpg"

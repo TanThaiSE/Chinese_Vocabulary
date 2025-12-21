@@ -1,4 +1,3 @@
-import React from "react"
 import { useLocation, useNavigate } from "react-router-dom"
 import "./Detail.css"
 /*eslint-disable @typescript-eslint/no-explicit-any*/
@@ -21,7 +20,6 @@ export default function Detail() {
   const char = item.chineseCharacters || item.chinese || "字"
   const pinyin = item.soundReading1 || item.pinyin || item.phonetic || ""
   const strokes = item.numberOfStrokes || item.nets || item.strokeCount || ""
-  const pos = item.pos || item.wordType || item.type || "—"
   const numberOfSoundsRead= item.numberOfSoundsRead || item.readingsCount || item.readingCount || ""
   const partOfSpeech= item.partOfSpeech || item.pos || item.wordType || "—"
   // normalize explains -> array of strings
