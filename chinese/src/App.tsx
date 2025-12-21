@@ -1,21 +1,13 @@
-import { Link, Route, Routes } from "react-router-dom" 
-import About from "./pages/About"
-import Assignment from "./pages/Assignment"
+import { Route, Routes } from "react-router-dom" 
 import Home from "./pages/Home"
+import Detail from "./pages/Detail"
 
 function App() {
   return (
-    <>
-      {/* <p className="read-the-docs">
-          <Link to="/about"> About Page</Link>
-          <Link to="/assignment"> Assignment Page</Link>
-          <Routes>
-            <Route path="/about" element={<About />} />
-            <Route path="/assignment" element={<Assignment />} />
-          </Routes>
-      </p> */}
-      <Home/>
-    </>
+    <Routes>
+      <Route path="/" element={<Home/>} />
+      <Route path="/detail" element={<Detail/>} />
+    </Routes>
   )
 }
 
