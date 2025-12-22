@@ -269,3 +269,64 @@ html, body, #root {
   .shortcuts { gap: 14px; }
   .shortcut { width: 60px; }
 }
+
+
+.side-buttons {
+    position: fixed;
+    right: 103px; /* điều chỉnh vị trí ngang */
+    top: 225px;  /* điều chỉnh vị trí dọc bắt đầu */
+    display: flex;
+    flex-direction: column;
+    gap: 64px;
+    z-index: 50;
+}
+
+.side-button {
+    width: 64px;
+    height: 64px;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+/* tuỳ chỉnh responsive nếu cần */
+@media (max-width: 900px) {
+    .side-buttons { display: none; }
+}
+
+.question-item {
+    position: relative;
+    padding: 18px 18px 60px 18px; /* extra bottom space for button */
+}
+
+/* answer box shown above the button */
+.answer-box {
+    position: absolute;
+    right: 18px;
+    bottom: 48px;
+    background: rgba(255,255,255,0.95);
+    border: 1px solid #ddd;
+    padding: 8px 12px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.06);
+    font-weight: 600;
+}
+
+/* toggle button */
+.reveal-btn {
+    position: absolute;
+    right: 12px;
+    bottom: 12px;
+    background: #f0f0f0;
+    border: 1px solid #ddd;
+    padding: 8px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+/* small tweak for mobile if needed */
+@media (max-width: 700px) {
+    .reveal-btn, .answer-box { right: 8px; bottom: 8px; }
+}

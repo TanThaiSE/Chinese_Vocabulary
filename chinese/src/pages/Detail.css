@@ -147,3 +147,96 @@
   .char-large { font-size:68px; }
   .col { width:auto; }
 }
+/* ...existing code... */
+/* ...existing code... */
+
+.question-item {
+    position: relative;
+    padding: 18px 18px 110px; /* đủ chỗ cho hàng đáp án */
+}
+
+/* hàng chứa đáp án + nút, căn giữa phía dưới mỗi câu */
+.answer-row {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 12px;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    justify-content: center;
+    width: calc(100% - 40px);
+    pointer-events: auto;
+}
+
+/* GHI ĐÈ: đảm bảo answer-box không còn absolute và nằm trong flow của flex */
+.answer-box {
+    position: relative !important;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255,255,255,0.95);
+    color: #000;
+    padding: 8px 12px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.12);
+    font-weight: 600;
+    min-width: 64px;
+    text-align: center;
+    transition: opacity 160ms ease, visibility 160ms;
+    opacity: 1;
+    visibility: visible;
+}
+
+/* class cho trạng thái ẩn */
+.answer-box.hidden {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+}
+/* ...existing code... */
+
+.answer-row {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: center !important;
+    gap: 12px !important;
+    position: absolute !important;
+    left: 50% !important;
+    transform: translateX(-50%) !important;
+    bottom: 12px !important;
+    width: calc(100% - 40px) !important;
+}
+
+.answer-box {
+    display: inline-block !important;
+    position: relative !important;
+    background: rgba(255,255,255,0.95) !important;
+    color: #000 !important;
+    padding: 8px 12px !important;
+    border-radius: 8px !important;
+    font-weight: 600 !important;
+    min-width: 64px !important;
+    text-align: center !important;
+}
+
+.answer-box.hidden {
+    display: none !important;
+}
+
+.answer-row .reveal-btn {
+    position: relative !important;
+    display: inline-block !important;
+    background: #f3f3f3 !important;
+    border: 1px solid #ccc !important;
+    padding: 8px 14px !important;
+    border-radius: 20px !important;
+    cursor: pointer !important;
+    font-size: 13px !important;
+    left: auto !important;
+    bottom: auto !important;
+    transform: none !important;
+}
+
+/* ...existing code... */

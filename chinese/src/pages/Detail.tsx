@@ -18,10 +18,17 @@ export default function Detail() {
   }
 
   const char = item.chineseCharacters || item.chinese || "字"
-  const pinyin = item.soundReading1 || item.pinyin || item.phonetic || ""
+  const pinyinArray: string[] = []
+const numberOfSoundsRead = item.numberOfSoundsRead || item.readingsCount || item.readingCount || ""
+  if (numberOfSoundsRead >= 1 && item.sound1) pinyinArray.push(item.sound1)
+  if (numberOfSoundsRead >= 2 && item.sound2) pinyinArray.push(item.sound2)
+  if (numberOfSoundsRead >= 3 && item.sound3) pinyinArray.push(item.sound3)
+  if (numberOfSoundsRead >= 4 && item.sound4) pinyinArray.push(item.sound4)
+  if (numberOfSoundsRead >= 5 && item.sound5) pinyinArray.push(item.sound5)
+  if (numberOfSoundsRead >= 6 && item.sound6) pinyinArray.push(item.sound6)
   const strokes = item.numberOfStrokes || item.nets || item.strokeCount || ""
-  const numberOfSoundsRead= item.numberOfSoundsRead || item.readingsCount || item.readingCount || ""
-  const partOfSpeech= item.partOfSpeech || item.pos || item.wordType || "—"
+  
+  const partOfSpeech = item.partOfSpeech || item.pos || item.wordType || "—"
   // normalize explains -> array of strings
   const rawExplain = item.explanationOfMeaning || item.description || item.explain || item.explains || ""
   const explains = Array.isArray(rawExplain)
@@ -47,13 +54,13 @@ export default function Detail() {
           <div className="header-meta">
             <div className="title-line">
               <span className="char-title">{char}</span>
-              <span className="paren">({pinyin})</span>
+              <span className="paren">({pinyinArray[0] || "—"})</span>
             </div>
 
             <div className="stamp">[{strokes ? `笔画 : ${strokes}` : "— nét"} - {numberOfSoundsRead ? `读音 : ${numberOfSoundsRead}` : "— âm"}]</div>
 
             <div className="info-block">
-              <div className="info-row"><strong>拼音:</strong> <span className="info-val">{pinyin || "—"}</span></div>
+              <div className="info-row"><strong>拼音:</strong> <span className="info-val">{pinyinArray.length ? pinyinArray.join(" / ") : "—"} 🔊</span></div>
               <div className="info-row"><strong>词性:</strong> <span className="info-val">{partOfSpeech}</span></div>
             </div>
           </div>

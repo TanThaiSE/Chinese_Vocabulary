@@ -1,0 +1,602 @@
+[
+  {
+    "No": 1,
+    "correspondingPolysyllabicLetters": "的",
+    "type1": "在湖南的一些地方，人们习惯将小型的、面向普通民众的出租车称为“面(的)”。\n",
+    "correctAnswer": "dī"
+  },
+  {
+    "No": 2,
+    "correspondingPolysyllabicLetters": "中",
+    "type1": "在科举考试(中)，成绩最优秀的考生会被授予“状元”的头衔，这在中国历史上是一种极高的荣誉。",
+    "correctAnswer": "zhòng"
+  },
+  {
+    "No": 3,
+    "correspondingPolysyllabicLetters": "着",
+    "type1": "春节期间，人们会穿着新衣服，尤其是红色的衣服，因为在中国文化中，红色象征(着)吉祥和好运。",
+    "correctAnswer": "zhuó"
+  },
+  {
+    "No": 4,
+    "correspondingPolysyllabicLetters": "卜",
+    "type1": "在中国，萝(卜)是一种常见的根茎类蔬菜，因其丰富的营养价值和多样化的烹饪方式而备受喜爱",
+    "correctAnswer": "bo"
+  },
+  {
+    "No": 5,
+    "correspondingPolysyllabicLetters": "种",
+    "type1": "中国是一个多民族的国家，56个民族共同构成了中国丰富多彩的人(种)和(种)族多样性。",
+    "correctAnswer": "zhǒng"
+  },
+  {
+    "No": 6,
+    "correspondingPolysyllabicLetters": "炸",
+    "type1": "在二战期间，中国的许多城市都遭受了日本军队的轰(炸)，导致了大量的人员伤亡和财产损失，对中国的抗日战争造成了极大的困难。",
+    "correctAnswer": "zhà"
+  },
+  {
+    "No": 7,
+    "correspondingPolysyllabicLetters": "薄",
+    "type1": "虽然薄田的生产力相对较低，但中国农民们凭借着坚韧不拔的精神和勤劳的双手，依然能够在这片土地上创造出美好的生活。",
+    "correctAnswer": "báo"
+  },
+  {
+    "No": 8,
+    "correspondingPolysyllabicLetters": "好",
+    "type1": "在中国，一些地方的方言词汇发音清晰，语调平缓，被认为是(好)懂的方言之一。",
+    "correctAnswer": "hǎo"
+  },
+  {
+    "No": 9,
+    "correspondingPolysyllabicLetters": "要",
+    "type1": "(要)离是春秋时期吴国的刺客，他以勇力闻名，后来成为“刺客”的祖师。",
+    "correctAnswer": "yāo"
+  },
+  {
+    "No": 10,
+    "correspondingPolysyllabicLetters": "了",
+    "type1": "当游客参观故宫、长城等著名景点时，他们会被其壮丽的景象所震撼，一目(了)然地感受到了中国的悠久历史和灿烂文化。",
+    "correctAnswer": "liǎo"
+  },
+  {
+    "No": 11,
+    "correspondingPolysyllabicLetters": "切",
+    "type1": "在中国文化中，“(切)磋”除了字面意义上的用刀磨刀之外，还常用来形容人与人之间在学问、技艺等方面的相互研讨和进步。",
+    "correctAnswer": "qiē"
+  },
+  {
+    "No": 12,
+    "correspondingPolysyllabicLetters": "便",
+    "type1": "在中国，(便)衣警察是维护社会治安的重要力量之一。他们穿着普通服饰，执行巡逻、调查等任务，以(便)更好地融入社会，发现和处理违法犯罪行为。",
+    "correctAnswer": "biàn"
+  },
+  {
+    "No": 13,
+    "correspondingPolysyllabicLetters": "圈",
+    "type1": "从一个人的一(圈)朋友可以看出来他人的性格。",
+    "correctAnswer": "quān"
+  },
+  {
+    "No": 14,
+    "correspondingPolysyllabicLetters": "盖",
+    "type1": "在古代中国，人们使用油纸伞作为雨(盖)。这些油纸伞通常绘制有各种精美图案，成为了中国传统文化的一部分。",
+    "correctAnswer": "gài"
+  },
+  {
+    "No": 15,
+    "correspondingPolysyllabicLetters": "重",
+    "type1": "中国的茶文化历史悠久，品茶不仅仅是品尝，更是一种情感的交流。茶文化中强调的“情意(重)”，就是指人与人之间的情感联系深厚，相互尊重和理解。",
+    "correctAnswer": "zhòng"
+  },
+  {
+    "No": 16,
+    "correspondingPolysyllabicLetters": "还",
+    "type1": "在中国的传统文化中，落叶归根和(还)乡是一种深刻的情感。\n",
+    "correctAnswer": "huán"
+  },
+  {
+    "No": 17,
+    "correspondingPolysyllabicLetters": "上",
+    "type1": "在中医治疗中，医生会根据病情为患者(上)药膏或草药，帮助他们恢复健康。\n",
+    "correctAnswer": "shàng"
+  },
+  {
+    "No": 18,
+    "correspondingPolysyllabicLetters": "更",
+    "type1": "随着中国的经济持续快速发展，人们的生活水平也在不断提高，环境保护意识也在(更)加强烈。",
+    "correctAnswer": "gèng"
+  },
+  {
+    "No": 19,
+    "correspondingPolysyllabicLetters": "几",
+    "type1": "在那个盛大的庆典上，(几)百人欢聚一堂，共同庆祝这个具有历史意义的时刻。",
+    "correctAnswer": "jǐ"
+  },
+  {
+    "No": 20,
+    "correspondingPolysyllabicLetters": "和",
+    "type1": "在经济领域，中国积极参与世界经济贸易组织（WTO）的各项(和)约，推动贸易自由化和经济全球化进程。\n",
+    "correctAnswer": "hé　"
+  },
+  {
+    "No": 21,
+    "correspondingPolysyllabicLetters": "读",
+    "type1": "当我们住（读）中国的文化时，我们不仅仅是了解传统文化和习俗，更是通过文化的细节来体验其深厚底蕴。",
+    "correctAnswer": "dú"
+  },
+  {
+    "No": 22,
+    "correspondingPolysyllabicLetters": "与",
+    "type1": "中国是一个拥有悠久历史和灿烂文化的国家，各族人民在这片广袤的土地上生死（与）共，共同创造了举世瞩目的辉煌成就。",
+    "correctAnswer": "yǔ"
+  },
+  {
+    "No": 23,
+    "correspondingPolysyllabicLetters": "调",
+    "type1": "在中医理论中，（调）摄强调的是顺应自然，通过饮食、运动、休息等多种方式调节身心，达到身体内外的平衡与和谐。",
+    "correctAnswer": "tiáo"
+  },
+  {
+    "No": 24,
+    "correspondingPolysyllabicLetters": "强",
+    "type1": "随着全民健身计划的深入实施，中国人民的体魄日益（强）健。",
+    "correctAnswer": "qiáng"
+  },
+  {
+    "No": 25,
+    "correspondingPolysyllabicLetters": "分",
+    "type1": "春（分）时节，中国各地都迎来了一年中最宜人的季节之一，各地人们按照传统习俗举行丰富多彩的庆祝活动，展示着中国的多元文化魅力。",
+    "correctAnswer": "fēn"
+  },
+  {
+    "No": 26,
+    "correspondingPolysyllabicLetters": "转",
+    "type1": "中国的高速铁路和公路建设发展迅速，车（轮）飞转间，连接了城乡，带动了经济，展现了中国交通事业的蓬勃生机。",
+    "correctAnswer": "zhuàn"
+  },
+  {
+    "No": 27,
+    "correspondingPolysyllabicLetters": "价",
+    "type1": "在商业谈判中，双方可能会通过第三方进行（价）绍。",
+    "correctAnswer": "jiè"
+  },
+  {
+    "No": 28,
+    "correspondingPolysyllabicLetters": "泡",
+    "type1": "在中国，随着现代生活节奏的加快和工作压力的增加，越来越多的人开始面临眼（泡）问题。",
+    "correctAnswer": "pāo"
+  },
+  {
+    "No": 29,
+    "correspondingPolysyllabicLetters": "难",
+    "type1": "中国是一个拥有悠久历史和丰富文化的国家，但在其发展过程中也遭遇过各种灾（难）。",
+    "correctAnswer": "nàn"
+  },
+  {
+    "No": 30,
+    "correspondingPolysyllabicLetters": "校",
+    "type1": "在汉朝时期，（校)尉是负责统领一定数量的士兵的军官。",
+    "correctAnswer": "xiào"
+  },
+  {
+    "No": 31,
+    "correspondingPolysyllabicLetters": "摄",
+    "type1": "在中国古代，（摄）行制度是一种常见的政治制度。当君主因故不能亲政时，会由一位重臣或皇子摄行朝政，代理管理国家事务。",
+    "correctAnswer": "shè"
+  },
+  {
+    "No": 32,
+    "correspondingPolysyllabicLetters": "研",
+    "type1": "中国著名的端砚和歙砚，以其质地细腻、（研) 磨均匀、不损毫芒等特点而备受文人墨客的喜爱。",
+    "correctAnswer": "yàn"
+  },
+  {
+    "No": 33,
+    "correspondingPolysyllabicLetters": "隐",
+    "type1": "（隐）几而卧是一种充满诗意的生活方式，象征着中国的悠闲文化和对自然的深深敬仰。",
+    "correctAnswer": "yìn"
+  },
+  {
+    "No": 34,
+    "correspondingPolysyllabicLetters": "约",
+    "type1": "当顾客说：“给我（约）一斤肉”，商家会用秤称量出大约一斤重的肉给顾客。",
+    "correctAnswer": "yāo"
+  },
+  {
+    "No": 35,
+    "correspondingPolysyllabicLetters": "横",
+    "type1": "“（横）财”一词指的是意外获得的财富，通常是指通过非正常途径或非劳动所得的财富，如中奖、遗产等。",
+    "correctAnswer": "hèng"
+  },
+  {
+    "No": 36,
+    "correspondingPolysyllabicLetters": "沙",
+    "type1": "豆(沙）的红色象征着吉祥、繁荣和幸福，因此在很多传统节日和庆典场合，豆沙也被用作象征吉祥和祝福的食品。",
+    "correctAnswer": "shā"
+  },
+  {
+    "No": 37,
+    "correspondingPolysyllabicLetters": "匙",
+    "type1": "汤(匙)不仅是中国饮食文化中的一个重要元素，也反映了中国人对食物和生活的态度和价值观。",
+    "correctAnswer": "chí"
+  },
+  {
+    "No": 38,
+    "correspondingPolysyllabicLetters": "钥",
+    "type1": "长江三角洲地区常被誉为中国经济的\"(锁)钥\"，因为它连接了中国东部沿海与内陆地区，是中国经济最发达、最活跃的地区之一，对中国的经济发展起到了关键的推动作用。",
+    "correctAnswer": "yuè"
+  },
+  {
+    "No": 39,
+    "correspondingPolysyllabicLetters": "冠",
+    "type1": "(冠)子不仅展示了中国服饰文化的独特魅力，也反映了中国人对身份、地位和荣誉的追求和重视。",
+    "correctAnswer": "guān"
+  },
+  {
+    "No": 40,
+    "correspondingPolysyllabicLetters": "倒",
+    "type1": "在中国广阔的土地上，遇到紧急情况时，人们会迅速卧（倒）以确保安全。",
+    "correctAnswer": "dǎo"
+  },
+  {
+    "No": 41,
+    "correspondingPolysyllabicLetters": "给",
+    "type1": "老师（给) 他一顿批评。",
+    "correctAnswer": "gěi"
+  },
+  {
+    "No": 42,
+    "correspondingPolysyllabicLetters": "朝",
+    "type1": "我仿佛看到胜利正(朝)我们走来",
+    "correctAnswer": "cháo"
+  },
+  {
+    "No": 43,
+    "correspondingPolysyllabicLetters": "地",
+    "type1": "只要积极(地)面对生活，我的未来就像花儿一样美好。",
+    "correctAnswer": "de"
+  },
+  {
+    "No": 44,
+    "correspondingPolysyllabicLetters": "万",
+    "type1": "幸亏发现及时，才没有发生火灾，真是(万）幸",
+    "correctAnswer": "wàn"
+  },
+  {
+    "No": 45,
+    "correspondingPolysyllabicLetters": "应",
+    "type1": " 第一次当翻译,她虽说有些紧张,但也能（应）付自如,可见基本功还是很扎实的。",
+    "correctAnswer": "yìng"
+  },
+  {
+    "No": 46,
+    "correspondingPolysyllabicLetters": "可",
+    "type1": "第二十七条行政机关实施行政许（可），不得向申请人提出购买指定商品、接受有偿服务等不正当要求。",
+    "correctAnswer": "kě"
+  },
+  {
+    "No": 47,
+    "correspondingPolysyllabicLetters": "合",
+    "type1": "如果朋友对你有所求，对于（合）情合理之请，应该欣然同意；不然，应该明明白白地告诉朋友拒绝的理由。",
+    "correctAnswer": "hé"
+  },
+  {
+    "No": 48,
+    "correspondingPolysyllabicLetters": "数",
+    "type1": "活跃在我们身边的好人好事不可胜（数）。",
+    "correctAnswer": "shǔ"
+  },
+  {
+    "No": 49,
+    "correspondingPolysyllabicLetters": "提",
+    "type1": "臣（提）兵深入虏境,颍昌之战,我兵大捷,虏众奔溃,潜入汴京,当时若得戮力齐心,上下相副,并兵一举,大事可成。\n",
+    "correctAnswer": "tí"
+  },
+  {
+    "No": 50,
+    "correspondingPolysyllabicLetters": "长",
+    "type1": "十指有（长）短,林木有高低,但通往成功的路只有一条,那就是勤奋\n",
+    "correctAnswer": "cháng"
+  },
+  {
+    "No": 51,
+    "correspondingPolysyllabicLetters": "并",
+    "type1": "孩子们生来就是人，（并）且是自由的；他们的自由属于他们自己。\n",
+    "correctAnswer": "bìng"
+  },
+  {
+    "No": 52,
+    "correspondingPolysyllabicLetters": "干",
+    "type1": "男人与老婆吵架时往往大动（干）戈，女人与老公吵架时往往哭骂无常",
+    "correctAnswer": "gān"
+  },
+  {
+    "No": 53,
+    "correspondingPolysyllabicLetters": "假",
+    "type1": "他不（假）思索，就解出了这道题。",
+    "correctAnswer": "jiǎ"
+  },
+  {
+    "No": 54,
+    "correspondingPolysyllabicLetters": "当",
+    "type1": " 我们的厂长是个好（当）家的,一切事情都安排得千了百当。",
+    "correctAnswer": "dāng"
+  },
+  {
+    "No": 55,
+    "correspondingPolysyllabicLetters": "期",
+    "type1": "因为他们要的地多,前（期）第一期就要了2千亩,刚好就把我要的这15亩地也算在里面了。\n",
+    "correctAnswer": "qī"
+  },
+  {
+    "No": 56,
+    "correspondingPolysyllabicLetters": "乐",
+    "type1": "为什么选怀柔,因为有山有水,故人云智者（乐）水,仁者乐山",
+    "correctAnswer": "yào "
+  },
+  {
+    "No": 57,
+    "correspondingPolysyllabicLetters": "别",
+    "type1": " 该公司是一家国际采购商，来自斯里兰卡，需要购买的产品类（别）包括：地毯及挂毯、裘革皮羽绒及制品等",
+    "correctAnswer": "bié"
+  },
+  {
+    "No": 58,
+    "correspondingPolysyllabicLetters": "少",
+    "type1": "他还是个不经事（少）年,不足以担当此重任。\n",
+    "correctAnswer": "shào"
+  },
+  {
+    "No": 59,
+    "correspondingPolysyllabicLetters": "空",
+    "type1": " 他亏（空）太多了，你纵然把钱都借给他，也不过是杯水车薪，起不了太大作用。",
+    "correctAnswer": "kòng"
+  },
+  {
+    "No": 60,
+    "correspondingPolysyllabicLetters": "为",
+    "type1": "我们不能让这样一位为民请命的共产党员就这样的负屈含冤而死，一定要（为）他申雪。",
+    "correctAnswer": "wèi"
+  },
+  {
+    "No": 61,
+    "correspondingPolysyllabicLetters": "奇",
+    "type1": "生命是一次（奇）遇，用心感受，会有属于自己的惊喜！",
+    "correctAnswer": "qí"
+  },
+  {
+    "No": 62,
+    "correspondingPolysyllabicLetters": "把",
+    "type1": "他的实力本就不差，我只不过顺水推舟地拉他一（把），让他有个出头机会。",
+    "correctAnswer": "bǎ"
+  },
+  {
+    "No": 63,
+    "correspondingPolysyllabicLetters": "暴",
+    "type1": "虽然你成绩不太好，但是你也不能自（暴）自弃。",
+    "correctAnswer": "bào"
+  },
+  {
+    "No": 64,
+    "correspondingPolysyllabicLetters": "背",
+    "type1": " 他拿起一把菜刀，开始用刀（背）割李某某的喉部。",
+    "correctAnswer": "bèi"
+  },
+  {
+    "No": 65,
+    "correspondingPolysyllabicLetters": "奔",
+    "type1": "他顺着小道直（奔）那山头。",
+    "correctAnswer": "bèn"
+  },
+  {
+    "No": 66,
+    "correspondingPolysyllabicLetters": "辟",
+    "type1": " 中国的地理特征多样且丰富，众多山脉、河流和湖泊为这片土地（辟）出了独特的自然景观。",
+    "correctAnswer": "bì"
+  },
+  {
+    "No": 67,
+    "correspondingPolysyllabicLetters": "差",
+    "type1": "在古籍的整理和翻译过程中，由于历史久远和传承错误，有时会出现一些文字上的（差）错，需要学者们的仔细考证和纠正。",
+    "correctAnswer": "chà"
+  },
+  {
+    "No": 68,
+    "correspondingPolysyllabicLetters": "场",
+    "type1": "在中国，市集是传统的经济活动（场）所。例如，每逢农历新年或者其他传统节日，各地都会举办庙会或市集，商贩们会聚集在一起，出售各种商品，如食品、手工艺品、装饰品等。这些市集不仅为商家提供了交易的平台，也为游客和当地居民带来了浓厚的节日氛围。\n",
+    "correctAnswer": "cháng"
+  },
+  {
+    "No": 69,
+    "correspondingPolysyllabicLetters": "臭",
+    "type1": "中国有许多美食，但有些如（臭）豆腐，在发酵过程中会产生不好闻的气味，当地人非常喜欢，但对于不习惯的人来说，可能会觉得难以接受。\n",
+    "correctAnswer": "chòu"
+  },
+  {
+    "No": 70,
+    "correspondingPolysyllabicLetters": "冲",
+    "type1": " 中国的黄河是中国的第二长河，它的水流从青藏高原（冲）向东方，最后流入渤海。这代表了中国人民勇往直前，不断向前的精神。",
+    "correctAnswer": "chòng"
+  },
+  {
+    "No": 71,
+    "correspondingPolysyllabicLetters": "处",
+    "type1": "在中国政府的各个部门和机构中，类似的（处）级单位不胜枚举，它们各自承担着不同的职责，共同构成了一个高效运转的政府体系。",
+    "correctAnswer": "chù"
+  },
+  {
+    "No": 72,
+    "correspondingPolysyllabicLetters": "畜",
+    "type1": "在中国，（畜）牧业是一个重要的农业分支，涵盖了猪、牛、羊、鸡、鸭等多种禽畜的饲养和养殖。",
+    "correctAnswer": "xù"
+  },
+  {
+    "No": 73,
+    "correspondingPolysyllabicLetters": "得",
+    "type1": "（得）志于对中国概况的深入了解，我希望能更全面地把握中国的发展脉络。",
+    "correctAnswer": "dé"
+  },
+  {
+    "No": 74,
+    "correspondingPolysyllabicLetters": "创",
+    "type1": " 中国的科技（创）新发展是近年来备受关注的话题。政府不断加大对科技创新的支持力度，鼓励企业和个人积极投身于创新活动中。",
+    "correctAnswer": "chuàng"
+  },
+  {
+    "No": 75,
+    "correspondingPolysyllabicLetters": "大",
+    "type1": "作为一名资深（大）夫，他对中国的医疗体系有着深入的了解，并经常向我们分享关于中国概况的医疗卫生知识，让我们受益匪浅。",
+    "correctAnswer": "dài"
+  },
+  {
+    "No": 76,
+    "correspondingPolysyllabicLetters": "单",
+    "type1": "《史记·匈奴列传》就详细记载了匈奴（单）于的世系和历史。",
+    "correctAnswer": "chán"
+  },
+  {
+    "No": 77,
+    "correspondingPolysyllabicLetters": "卡",
+    "type1": "在繁忙的城市道路上，也经常能看到（卡）车忙碌的身影。",
+    "correctAnswer": "kă"
+  },
+  {
+    "No": 78,
+    "correspondingPolysyllabicLetters": "答",
+    "type1": "政府部门经常会收到来自公众的咨询和建议，这些部门需要及时（答）复，确保公众的问题得到妥善处理和解答。\n",
+    "correctAnswer": "dá"
+  },
+  {
+    "No": 79,
+    "correspondingPolysyllabicLetters": "都",
+    "type1": "在抗击自然灾害如洪水或地震时，中国政府会迅速行动，确保所有受影响的地区（都）能得到及时的救援和支援。",
+    "correctAnswer": "dōu"
+  },
+  {
+    "No": 80,
+    "correspondingPolysyllabicLetters": "会",
+    "type1": "走进民族大家庭，（会）计记录下的每一笔交易都反映出中国多民族构成的和谐共生。",
+    "correctAnswer": "kuài"
+  },
+  {
+    "No": 81,
+    "correspondingPolysyllabicLetters": "槛",
+    "type1": "在中国古典园林中，亭（槛）是一种常见的建筑元素。",
+    "correctAnswer": "kǎn"
+  },
+  {
+    "No": 82,
+    "correspondingPolysyllabicLetters": "区",
+    "type1": "在中国，“（区）”作为一个姓氏，虽然并不是最为常见的姓氏之一，但仍然有相当数量的人口使用这个姓氏。",
+    "correctAnswer": "ōu"
+  },
+  {
+    "No": 83,
+    "correspondingPolysyllabicLetters": "迫",
+    "type1": " 在中国的古代城市中，市中心通常会有一些古老的庙宇或寺院，吸引着信徒和游客（迫）近祈福或参观。",
+    "correctAnswer": "pò"
+  },
+  {
+    "No": 84,
+    "correspondingPolysyllabicLetters": "无",
+    "type1": "在中国的一些地区，由于干旱，一些村庄的水井可能会枯竭，导致当地居民（无）水可用。",
+    "correctAnswer": "wú"
+  },
+  {
+    "No": 85,
+    "correspondingPolysyllabicLetters": "模",
+    "type1": "中国历史上有许多伟大的领袖和思想家，如孔子、毛泽东等，他们被视为中国历史上的（模）范人物，对后人产生了深远的影响。",
+    "correctAnswer": "mó"
+  },
+  {
+    "No": 86,
+    "correspondingPolysyllabicLetters": "糊",
+    "type1": "在中国的雨季，一些山区村庄可能会遭受山体滑坡的威胁，泥土变成湿（糊），对房屋和村庄的安全构成风险。",
+    "correctAnswer": "hú"
+  },
+  {
+    "No": 87,
+    "correspondingPolysyllabicLetters": "女",
+    "type1": "在中国历史上，（女）性地位的演变与社会变革密切相关。",
+    "correctAnswer": "nǚ"
+  },
+  {
+    "No": 88,
+    "correspondingPolysyllabicLetters": "缩",
+    "type1": "在纺织工业中，一些纺织品在加工过程中可能会因为温度或湿度的改变而发生(缩)水现象，这会影响产品的质量和使用效果。",
+    "correctAnswer": "suō"
+  },
+  {
+    "No": 89,
+    "correspondingPolysyllabicLetters": "看",
+    "type1": "每逢重大节日，许多城市的孤寡老人和残疾人都会收到社会组织或志愿者的（看）望，他们会为他们送去慰问品，并陪伴他们聊天，给他们送去温暖和关怀。",
+    "correctAnswer": "kàn"
+  },
+  {
+    "No": 90,
+    "correspondingPolysyllabicLetters": "坏",
+    "type1": "中国警方努力打击犯罪活动，逮捕了许多（坏）人，维护社会的安定与安全。",
+    "correctAnswer": "huài"
+  },
+  {
+    "No": 91,
+    "correspondingPolysyllabicLetters": "据",
+    "type1": "中国政府通过大规模的调查和数（据）分析，据实了解了中国农村贫困地区的精准扶贫需求，为扶贫工作提供了科学依据。",
+    "correctAnswer": "jù"
+  },
+  {
+    "No": 92,
+    "correspondingPolysyllabicLetters": "夸",
+    "type1": "有些广告宣传往往夸大其词，（夸）大产品的功效和效果，以吸引消费者的注意。",
+    "correctAnswer": "kuā"
+  },
+  {
+    "No": 93,
+    "correspondingPolysyllabicLetters": "车",
+    "type1": "中国的城市交通发展迅速，每天都有大量的（车）辆在道路上行驶，这给城市带来了方便，但也带来了交通拥堵和环境污染的问题。",
+    "correctAnswer": "chē"
+  },
+  {
+    "No": 94,
+    "correspondingPolysyllabicLetters": "厂",
+    "type1": "中国许多城市都有大量的工业（厂）房，这些厂房通常位于城市的工业园区或者郊区，用于各种生产和加工活动，是支撑中国制造业发展的重要基础设施之一。",
+    "correctAnswer": "chǎng"
+  },
+  {
+    "No": 95,
+    "correspondingPolysyllabicLetters": "尾",
+    "type1": "在中国的城市规划和建筑设计中，（尾）端常常指建筑物或道路的末端，设计者需要考虑尾端的功能和美学，以确保城市景观的完整和连贯性。",
+    "correctAnswer": "wěi"
+  },
+  {
+    "No": 96,
+    "correspondingPolysyllabicLetters": "觉",
+    "type1": "教育机构致力于激发学生的内在动力和潜能，帮助他们认清自己的价值取向和人生目标，实现个体的(觉）醒与成长。",
+    "correctAnswer": "jué"
+  },
+  {
+    "No": 97,
+    "correspondingPolysyllabicLetters": "扇",
+    "type1": "在中国文化中，（扇）子是一种传统的文化艺术品，具有悠久的历史。\n",
+    "correctAnswer": "shàn"
+  },
+  {
+    "No": 98,
+    "correspondingPolysyllabicLetters": "尽",
+    "type1": "在经济发展的过程中，许多企业和个人都展现出了“（尽）力”的精神。",
+    "correctAnswer": "jìn"
+  },
+  {
+    "No": 99,
+    "correspondingPolysyllabicLetters": "量",
+    "type1": "制造企业通常会使用各种精密的（量）器来确保产品达到标准要求，提升产品质量。",
+    "correctAnswer": "liàng"
+  },
+  {
+    "No": 100,
+    "correspondingPolysyllabicLetters": "解",
+    "type1": "(解)体可以指代观念、理论或体制的变革和重组，如古代政治制度的解体与改革，或者是对传统价值观念的解体与重建。",
+    "correctAnswer": "jiě"
+  }
+]

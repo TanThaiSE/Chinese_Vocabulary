@@ -1,0 +1,602 @@
+[
+  {
+    "No":1,
+    "correspondingPolysyllabicLetters":"的",
+    "type1":"Bōluódìhǎi shì zhōngguó yǔ běi'ōu guójiā zhī jiān de zhòngyào shuǐyù.\nA. 波罗的海是中国与北欧国家之间的重要水域。\nB. 波罗地海是中国与北欧国家之间的重要水域。\nC. 波罗帝海是中国与北欧国家之间的重要水域。\nD. 波罗底海是中国与北欧国家之间的重要水域。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":2,
+    "correspondingPolysyllabicLetters":"中",
+    "type1":" Zhōngguó gèdì bùshí fāshēng yīn jiēchù yǒudú wùzhí huò shíyòng shòu wūrǎn shípǐn ér dǎozhì de “zhòngdú” shìjiàn.\nA. 中国各地不时发生因接粗有毒物质或食用受污染食品而导致的“衷毒”事件。\nB. 中国各地不时发生因接触有毒物质或食用受污染食品而导致的“钟毒”事件。\nC. 中国各地不时发生因接触有毒物质或食用受污染食品而导致的“中毒”事件。\nD. 中国各地不时发生因接触有毒物质或食用受污染食品而导致的“仲毒”事件。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":3,
+    "correspondingPolysyllabicLetters":"着",
+    "type1":"Huángdìzhuó rénqián lái lǐngqǔ zhǐyì, ránhòu pàiqiǎn guānyuán qù gèdì zhíxíng rènwù.\nA. 皇帝拙人前来领取旨意，然后派遣官员去各地执行任务。\nB. 皇帝啄人前来领取旨意，然后派遣官员去各地执行任务。\nC. 皇帝着人前来领取旨意，然后派遣官员去各地执行任务。\nD. 皇帝卓人前来领取旨意，然后派遣官员去各地执行任务。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":4,
+    "correspondingPolysyllabicLetters":"卜",
+    "type1":"Huángdì zài juécè guójiā dàshì, chūzhēng zhēngzhàn děng zhòngyào shíkè, wǎngwǎng huì xúnqiú wūshī huò zhānbǔ shī de bāngzhù. \nA. 皇帝在决策国家大事、出征征战等重要时刻，往往会寻求巫师或占卟师的帮助。\nB. 皇帝在决策国家大事、出征征战等重要时刻，往往会寻求巫师或占捕师的帮助。\nC. 皇帝在决策国家大事、出征征战等重要时刻，往往会寻求巫师或占补师的帮助。\nD. 皇帝在决策国家大事、出征征战等重要时刻，往往会寻求巫师或占卜师的帮助。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":5,
+    "correspondingPolysyllabicLetters":"种",
+    "type1":"Dà xióngmāo jiùshì zhōngguó tèyǒu de wùzhǒng, yǐ qí dútè de xíngtài hé shēngtài tèdiǎn shēn shòu quán shìjiè xǐ'ài.\nA. 大熊猫就是中国特有的物种，以其独特的形态和生态特点深受全世界喜爱。\nB. 大熊猫就是中国特有的物肿，以其独特的形态和生态特点深受全世界喜爱。\nC. 大熊猫就是中国特有的物冢，以其独特的形态和生态特点深受全世界喜爱。\nD. 大熊猫就是中国特有的物穜，以其独特的形态和生态特点深受全世界喜爱。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":6,
+    "correspondingPolysyllabicLetters":"炸",
+    "type1":"Zài zhōngguó, zhà shí shì yī zhǒng fēicháng shòu huānyíng de pēngrèn fāngshì, tèbié shì zài běifāng dìqū.\nA. 在中国，扎食是一种非常受欢迎的烹饪方式，特别是在北方地区。\nB. 在中国，炸食是一种非常受欢迎的烹饪方式，特别是在北方地区。\nC. 在中国，渣食是一种非常受欢迎的烹饪方式，特别是在北方地区。\nD. 在中国，榨食是一种非常受欢迎的烹饪方式，特别是在北方地区。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":7,
+    "correspondingPolysyllabicLetters":"薄",
+    "type1":"Zài chuántǒng jiérì huò tèshū chǎnghé, rénmen kěnéng huì hù zèng bólǐ, yǐ shì zūnzhòng hé guānxīn. \nA. 在传统节日或特殊场合，人们可能会互赠博礼，以示尊重和关心。\nB. 在传统节日或特殊场合，人们可能会互赠伯礼，以示尊重和关心。\nC. 在传统节日或特殊场合，人们可能会互赠勃礼，以示尊重和关心。\nD. 在传统节日或特殊场合，人们可能会互赠薄礼，以示尊重和关心。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":8,
+    "correspondingPolysyllabicLetters":"好",
+    "type1":"Zài zhōngguó de dà chéngshì, yóuyú rénkǒu mìjí hé jiāotōng fánmáng, hào chū shìgù.\nA. 在中国的大城市，由于人口密集和交通繁忙，浩出事故。\nB. 在中国的大城市，由于人口密集和交通繁忙，好出事故。\nC. 在中国的大城市，由于人口密集和交通繁忙，昊出事故。\nD. 在中国的大城市，由于人口密集和交通繁忙，号出事故。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":9,
+    "correspondingPolysyllabicLetters":"要",
+    "type1":"Zài zhōngguó , jiāzhǎng hé lǎoshīmen jīngcháng gǔlì háizimen yào yǒu shàngjìn xīn, bùduàn jìnbù, zhuīqiú zhuóyuè\nA. 在中国，家长和老师们经常鼓励孩子们药有上进心，不断进步，追求卓越。\nB. 在中国，家长和老师们经常鼓励孩子们钥有上进心，不断进步，追求卓越。\nC. 在中国，家长和老师们经常鼓励孩子们要有上进心，不断进步，追求卓越。\nD. 在中国，家长和老师们经常鼓励孩子们耀有上进心，不断进步，追求卓越。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":10,
+    "correspondingPolysyllabicLetters":"了",
+    "type1":"Měi dàngyè wǎn jiànglín, běijīng de gùgōng yǔ shànghǎi de wàitān dōu shǎnshuòzhe cuǐcàn de guāngmáng, chéngwéile chéngshì de biāozhì xìng jǐngdiǎn.\nA. 每当夜晚降临，北京的故宫与上海的外滩都闪烁着璀璨的光芒，成为了城市的标志性景点。\nB. 每当夜晚降临，北京的故宫与上海的外滩都闪烁着璀璨的光芒，成为饹城市的标志性景点。\nC. 每当夜晚降临，北京的故宫与上海的外滩都闪烁着璀璨的光芒，成为叻城市的标志性景点。\nD. 每当夜晚降临，北京的故宫与上海的外滩都闪烁着璀璨的光芒，成为勒城市的标志性景点。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":11,
+    "correspondingPolysyllabicLetters":"切",
+    "type1":"Zài chūnjié qíjiān, jiārén tuánjù, bǐcǐ jiān de wènhòu hé zhùfú dōu chōngmǎnle qīnqiè de fēnwéi.\nA. 在春节期间，家人团聚，彼此间的问候和祝福都充满了亲妾的氛围。\nB. 在春节期间，家人团聚，彼此间的问候和祝福都充满了亲怯的氛围。\nC. 在春节期间，家人团聚，彼此间的问候和祝福都充满了亲窃的氛围。\nD. 在春节期间，家人团聚，彼此间的问候和祝福都充满了亲切的氛围。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":12,
+    "correspondingPolysyllabicLetters":"便",
+    "type1":"Zài zhōngguó, biànyī jǐngchá shì wéihù shèhuì zhì'ān dì zhòngyào lìliàng zhī yī.\nA. 在中国，遍衣警察是维护社会治安的重要力量之一。\nB. 在中国，便衣警察是维护社会治安的重要力量之一。\nC. 在中国，变衣警察是维护社会治安的重要力量之一。\nD. 在中国，辩衣警察是维护社会治安的重要力量之一。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":13,
+    "correspondingPolysyllabicLetters":"圈",
+    "type1":"Zài zhōngguó de mùqū, mùmínmen tōngcháng huì jiāng yáng qún zài yèjiān quān qǐlái, yǐ fángzhǐ yěshòu de xíjí.\nA. 在中国的牧区，牧民们通常会将羊群在夜间棬起来，以防止野兽的袭击。\nB. 在中国的牧区，牧民们通常会将羊群在夜间劝起来，以防止野兽的袭击。\nC. 在中国的牧区，牧民们通常会将羊群在夜间圈起来，以防止野兽的袭击。\nD. 在中国的牧区，牧民们通常会将羊群在夜间悛起来，以防止野兽的袭击。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":14,
+    "correspondingPolysyllabicLetters":"盖",
+    "type1":"Zài zhōngguó gǔdài, guānfāng wénshū huò qìyuē cháng xūyào gài zhāng yǐ zhèngmíng qí fǎlǜ xiàolì. \nA. 在中国古代，官方文书或契约常需要盖章以证明其法律效力。\nB. 在中国古代，官方文书或契约常需要概章以证明其法律效力。\nC. 在中国古代，官方文书或契约常需要丐章以证明其法律效力。\nD. 在中国古代，官方文书或契约常需要该章以证明其法律效力。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":15,
+    "correspondingPolysyllabicLetters":"重",
+    "type1":"Chóngqìng shì zhōngguó xīnán dìqū de yīgè zhòngyào chéngshì, yěshì zhōngguó de sì gè zhíxiáshì zhī yī. \nA. 种庆是中国西南地区的一个重要城市，也是中国的四个直辖市之一。\nB. 虫庆是中国西南地区的一个重要城市，也是中国的四个直辖市之一。\nC. 崇庆是中国西南地区的一个重要城市，也是中国的四个直辖市之一。\nD. 重庆是中国西南地区的一个重要城市，也是中国的四个直辖市之一。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":16,
+    "correspondingPolysyllabicLetters":"还",
+    "type1":"Rénmen duìyú huánjìng bǎohù hàn kě chíxù fāzhǎn de yìshí hái gèngjiā qiángliè.\nA. 人们对于环境保护和可持续发展的意识孩更加强烈。\nB. 人们对于环境保护和可持续发展的意识还更加强烈。\nC. 人们对于环境保护和可持续发展的意识骸更加强烈。\nD. 人们对于环境保护和可持续发展的意识海更加强烈。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":17,
+    "correspondingPolysyllabicLetters":"上",
+    "type1":"Pǔtōnghuà de zì diào fēn wéi yīnpíng, yángpíng, shàng shēng hé qù shēng sì gè lèibié\nA. 普通话的字调分为阴平、阳平、尚声和去声四个类别。\nB. 普通话的字调分为阴平、阳平、伤声和去声四个类别。\nC. 普通话的字调分为阴平、阳平、上声和去声四个类别。\nD. 普通话的字调分为阴平、阳平、绱声和去声四个类别。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":18,
+    "correspondingPolysyllabicLetters":"更",
+    "type1":"“sān gēng bànyè” zhèyàng de biǎoshù, xíngxiàng de miáoshùle yèshēnrénjìng de shíkè. \nA. “三更半夜”这样的表述，形象地描述了夜深人静的时刻。\nB. “三庚半夜”这样的表述，形象地描述了夜深人静的时刻。\nC. “三耕半夜”这样的表述，形象地描述了夜深人静的时刻。\nD. “三羹半夜”这样的表述，形象地描述了夜深人静的时刻。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":19,
+    "correspondingPolysyllabicLetters":"几",
+    "type1":"Zài zhōngguó chuántǒng de shìchǎng jiāoyì zhōng, rénmen jīngcháng huì shǐyòng “jǐ” lái xúnwèn shāngpǐn de shùliàng.\nA. 在中国传统的市场交易中，人们经常会使用“给”来询问商品的数量。\nB. 在中国传统的市场交易中，人们经常会使用“己”来询问商品的数量。\nC. 在中国传统的市场交易中，人们经常会使用“挤”来询问商品的数量。\nD. 在中国传统的市场交易中，人们经常会使用“几”来询问商品的数量。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":20,
+    "correspondingPolysyllabicLetters":"和",
+    "type1":"Zài tàntǎo zhōngguó gàikuàng shí, wǒmen kěyǐ háo bù bǎoliú dì “hépántuōchū” suǒ zhī. \nA. 在探讨中国概况时，我们可以毫不保留地“合盘托出”所知。\nB. 在探讨中国概况时，我们可以毫不保留地“和盘托出”所知。\nC. 在探讨中国概况时，我们可以毫不保留地“何盘托出”所知。\nD. 在探讨中国概况时，我们可以毫不保留地“河盘托出”所知。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":21,
+    "correspondingPolysyllabicLetters":"读",
+    "type1":"Jùdòu shì zhōngguó gǔdài chuántǒng de dúshū fāngfǎ, qiángdiào de shì duì wénběn xìjié de jīngquè bǎwò. \nA. 句斗是中国古代传统的读书方法，强调的是对文本细节的精确把握。\nB. 句豆是中国古代传统的读书方法，强调的是对文本细节的精确把握。\nC. 句读是中国古代传统的读书方法，强调的是对文本细节的精确把握。\nD. 句逗是中国古代传统的读书方法，强调的是对文本细节的精确把握。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":22,
+    "correspondingPolysyllabicLetters":"与",
+    "type1":"Cūnmínmen jīngcháng xiāng yǔ hézuò, gòngtóng cānyù shuǐlì jiànshè, nóngtián gēngzuò děng láodòng.\nA. 村民们经常相与合作，共同参与水利建设、农田耕作等劳动。\nB. 村民们经常相雨合作，共同参与水利建设、农田耕作等劳动。\nC. 村民们经常相语合作，共同参与水利建设、农田耕作等劳动。\nD. 村民们经常相宇合作，共同参与水利建设、农田耕作等劳动。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":23,
+    "correspondingPolysyllabicLetters":"调",
+    "type1":"Zài xìjù zhōng, chǒujiǎo huò xǐjù juésè de tiáoxiào biǎoyǎn wǎngwǎng néng yǐnfā guānzhòng de huānxiào hé gòngmíng. \nA. 在戏剧中，丑角或喜剧角色的条笑表演往往能引发观众的欢笑和共鸣。\nB. 在戏剧中，丑角或喜剧角色的迢笑表演往往能引发观众的欢笑和共鸣。\nC. 在戏剧中，丑角或喜剧角色的蜩笑表演往往能引发观众的欢笑和共鸣。\nD. 在戏剧中，丑角或喜剧角色的调笑表演往往能引发观众的欢笑和共鸣。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":24,
+    "correspondingPolysyllabicLetters":"强",
+    "type1":"Suízhe quánmín jiànshēn jìhuà de shēnrù shíshī, zhōngguó rénmín de tǐpò rìyì qiángjiàn.\nA. 随着全民健身计划的深入实施，中国人民的体魄日益墙健。\nB. 随着全民健身计划的深入实施，中国人民的体魄日益强健。\nC. 随着全民健身计划的深入实施，中国人民的体魄日益蔃健。\nD. 随着全民健身计划的深入实施，中国人民的体魄日益蔷健。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":25,
+    "correspondingPolysyllabicLetters":"分",
+    "type1":"“Zìfèn yǐ sǐ jiǔ yǐ\"shì zhōngguó gǔdài wénrén mòkè chángyòng de yī zhǒng biǎodá fāng.\nA. “自份已死久矣\"是中国古代文人墨客常用的一种表达方。\nB. “自奋已死久矣\"是中国古代文人墨客常用的一种表达方。\nC. “自分已死久矣\"是中国古代文人墨客常用的一种表达方。\nD. “自愤已死久矣\"是中国古代文人墨客常用的一种表达方。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":26,
+    "correspondingPolysyllabicLetters":"转",
+    "type1":"Cè xūn shí'èr zhuǎn, shǎngcì bǎi qiān qiáng.\nA. 策勋十二转，赏赐百千强。\nB. 策勋十二砖，赏赐百千强。\nC. 策勋十二赚，赏赐百千强。\nD. 策勋十二传，赏赐百千强。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":27,
+    "correspondingPolysyllabicLetters":"价",
+    "type1":"Zài zhōngguó wénhuà zhōng,“jiè” zuòwéi “shàn” de yìsi, tōngcháng yǔ dàodé píngjià, xíngwéi zhǔnzé xiāngguān lián.\nA. 在中国文化中，“界”作为“善”的意思，通常与道德评价、行为准则相关联。\nB. 在中国文化中，“接”作为“善”的意思，通常与道德评价、行为准则相关联。\nC. 在中国文化中，“街”作为“善”的意思，通常与道德评价、行为准则相关联。\nD. 在中国文化中，“价”作为“善”的意思，通常与道德评价、行为准则相关联。。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":28,
+    "correspondingPolysyllabicLetters":"泡",
+    "type1":"Dēngpào er zuòwéi yī zhǒng zhòngyào de zhàomíng gōngjù, zài zhōngguó de jiātíng zhōng dédàole guǎngfàn yìngyòng. \nA. 灯炮儿作为一种重要的照明工具，在中国的家庭中得到了广泛应用。\nB. 灯泡儿作为一种重要的照明工具，在中国的家庭中得到了广泛应用。\nC. 灯疱儿作为一种重要的照明工具，在中国的家庭中得到了广泛应用。\nD. 灯奅儿作为一种重要的照明工具，在中国的家庭中得到了广泛应用。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":29,
+    "correspondingPolysyllabicLetters":"难",
+    "type1":"Zhōngguó de yǔyán nándù duìyú fēi mǔyǔ zhě lái shuō xiāngduì jiào gāo, yóuqí shì hànzì de xuéxí hé zhǎngwò. \nA. 中国的语言男度对于非母语者来说相对较高，尤其是汉字的学习和掌握。\nB. 中国的语言南度对于非母语者来说相对较高，尤其是汉字的学习和掌握。\nC. 中国的语言难度对于非母语者来说相对较高，尤其是汉字的学习和掌握。\nD. 中国的语言楠度对于非母语者来说相对较高，尤其是汉字的学习和掌握。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":30,
+    "correspondingPolysyllabicLetters":"校",
+    "type1":"Zài túshū guǎn huò bówùguǎn děng jīgòu, zhuānjiāmen huì dìngqí jìnxíng gǔjí de jiàokān gōngzuò, yǐ quèbǎo wénxiàn de zhēnshí xìng hàn kěkào xìng.\nA. 在图书馆或博物馆等机构，专家们会定期进行古籍的校勘工作，以确保文献的真实性和可靠性。\nB. 在图书馆或博物馆等机构，专家们会定期进行古籍的教勘工作，以确保文献的真实性和可靠性。\nC. 在图书馆或博物馆等机构，专家们会定期进行古籍的较勘工作，以确保文献的真实性和可靠性。\nD. 在图书馆或博物馆等机构，专家们会定期进行古籍的叫勘工作，以确保文献的真实性和可靠性。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":31,
+    "correspondingPolysyllabicLetters":"摄",
+    "type1":"Zhōngguó gǔdài wénxué zuòpǐn zhōng, chángcháng chūxiàn yòng “shè” zì biǎoshì kǒngjù huò hàipà de chǎngjǐng. \nA. 中国古代文学作品中，常常出现用“设”字表示恐惧或害怕的场景。\nB. 中国古代文学作品中，常常出现用“舍”字表示恐惧或害怕的场景。\nC. 中国古代文学作品中，常常出现用“射”字表示恐惧或害怕的场景。\nD. 中国古代文学作品中，常常出现用“摄”字表示恐惧或害怕的场景。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":32,
+    "correspondingPolysyllabicLetters":"研",
+    "type1":"“Yán jīng liàn dōu” zhè yī chéngyǔ yě fǎnyìngle zhōngguó gǔdài wénrén chuàngzuò wénzhāng de yánjǐn tàidù hé jīngniánlěiyuè de nǔlì.\nA. “严京练都”这一成语也反映了中国古代文人创作文章的严谨态度和经年累月的努力。\nB. “研京练都”这一成语也反映了中国古代文人创作文章的严谨态度和经年累月的努力。\nC. “言京练都”这一成语也反映了中国古代文人创作文章的严谨态度和经年累月的努力。\nD. “沿京练都”这一成语也反映了中国古代文人创作文章的严谨态度和经年累月的努力。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":33,
+    "correspondingPolysyllabicLetters":"隐",
+    "type1":"Zài zhōngguó gǔdài wénxué zhōng, xǔduō shīgē hé gùshì dōu biǎodále shēn shēn de yǐn cè zhī qíng.\nA. 在中国古代文学中，许多诗歌和故事都表达了深深的引恻之情。\nB. 在中国古代文学中，许多诗歌和故事都表达了深深的饮恻之情。\nC. 在中国古代文学中，许多诗歌和故事都表达了深深的隐恻之情。\nD. 在中国古代文学中，许多诗歌和故事都表达了深深的尹恻之情。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":34,
+    "correspondingPolysyllabicLetters":"约",
+    "type1":"Zài rìcháng shēnghuó zhōng, rénmen huì zhùyì guān dēng, guān shuǐ děng jiéyuē xíngwéi.\nA. 在日常生活中，人们会注意关灯、关水等节约行为。\nB. 在日常生活中，人们会注意关灯、关水等节月行为。\nC. 在日常生活中，人们会注意关灯、关水等节乐行为。\nD. 在日常生活中，人们会注意关灯、关水等节越行为。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":35,
+    "correspondingPolysyllabicLetters":"横",
+    "type1":"Zhè zhǒng héngxiàng fāzhǎn yǒu zhù yú pínghéng chéngshì de kōngjiān bùjú, cùjìn qūyù jīngjì de jūnhéng fāzhǎn.\nA. 这种恒向发展有助于平衡城市的空间布局，促进区域经济的均衡发展。\nB. 这种衡向发展有助于平衡城市的空间布局，促进区域经济的均衡发展。\nC. 这种蘅向发展有助于平衡城市的空间布局，促进区域经济的均衡发展。\nD. 这种横向发展有助于平衡城市的空间布局，促进区域经济的均衡发展。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":36,
+    "correspondingPolysyllabicLetters":"沙",
+    "type1":"Shā zhèng qīng de sǎnqǔ zuòpǐn biǎoxiàn chū shēnchén de qínggǎn hé duì shēnghuó de dúdào jiànjiě. \nA. 杀正卿的散曲作品表现出深沉的情感和对生活的独到见解。\nB. 沙正卿的散曲作品表现出深沉的情感和对生活的独到见解。\nC. 杉正卿的散曲作品表现出深沉的情感和对生活的独到见解。\nD. 刹正卿的散曲作品表现出深沉的情感和对生活的独到见解。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":37,
+    "correspondingPolysyllabicLetters":"匙",
+    "type1":"Tāngchí fǎnyìngle zhōngguó rén duì shíwù hé shēnghuó de tàidù hé jiàzhíguān.\nA. 汤池反映了中国人对食物和生活的态度和价值观。\nB. 汤迟反映了中国人对食物和生活的态度和价值观。\nC. 汤匙反映了中国人对食物和生活的态度和价值观。\nD. 汤持反映了中国人对食物和生活的态度和价值观。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":38,
+    "correspondingPolysyllabicLetters":"钥",
+    "type1":"Chángjiāng sānjiǎozhōu dìqū cháng bèi yù wéi zhōngguó jīngjì de\"suǒyào\". \nA. 长江三角洲地区常被誉为中国经济的\"锁钥\"。\nB. 长江三角洲地区常被誉为中国经济的\"锁要\"。\nC. 长江三角洲地区常被誉为中国经济的\"锁耀\"。\nD. 长江三角洲地区常被誉为中国经济的\"锁药\"。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":39,
+    "correspondingPolysyllabicLetters":"冠",
+    "type1":"Guó de wéiqí xuǎnshǒu céng duō cì huòdé shìjiè wéiqí jǐnbiāosài de guànjūn. \nA. 国的围棋选手曾多次获得世界围棋锦标赛的惯军。\nB. 国的围棋选手曾多次获得世界围棋锦标赛的灌军。\nC. 国的围棋选手曾多次获得世界围棋锦标赛的观军。\nD. 国的围棋选手曾多次获得世界围棋锦标赛的冠军。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":40,
+    "correspondingPolysyllabicLetters":"倒",
+    "type1":"Zài zhōngguó guǎngkuò de tǔdì shàng, yù dào jǐnjí qíngkuàng shí, rénmen huì xùnsù wò dǎo yǐ quèbǎo ānquán.  \nA. 在中国广阔的土地上，遇到紧急情况时，人们会迅速卧岛以确保安全。\nB. 在中国广阔的土地上，遇到紧急情况时，人们会迅速卧倒以确保安全。\nC. 在中国广阔的土地上，遇到紧急情况时，人们会迅速卧导以确保安全。\nD. 在中国广阔的土地上，遇到紧急情况时，人们会迅速卧蹈以确保安全。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":41,
+    "correspondingPolysyllabicLetters":"给",
+    "type1":"Xiāngqīnmen màozhe shēngmìng wéixiǎn gěi qiánfāng zhànshì yùnsòng dànyào hé bǔjǐ.  \nA. 乡亲们冒着生命危险给前方战士运送弹药和补几。\nB. 乡亲们冒着生命危险给前方战士运送弹药和补己。\nC. 乡亲们冒着生命危险给前方战士运送弹药和补给。\nD. 乡亲们冒着生命危险给前方战士运送弹药和补挤。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":42,
+    "correspondingPolysyllabicLetters":"朝",
+    "type1":"Dì yī jiā zhāorì píjiǔ wū dàtáng kāimù yíngyè.\nA. 第一家朝日啤酒屋大堂开幕营业.\nB. 第一家着日啤酒屋大堂开幕营业.\nC. 第一家招日啤酒屋大堂开幕营业.\nD. 第一家照日啤酒屋大堂开幕营业.",
+    "correctAnswer":"A"
+  },
+  {
+    "No":43,
+    "correspondingPolysyllabicLetters":"地",
+    "type1":"Yīgè rén yuè zàiyì dì dìfāng, jiùshì zuì lìng tā zìbēi dì dìfāng.\nA. 一个人越在意的的方，就是最令他自卑的的方。\nB. 一个人越在意的帝方，就是最令他自卑的帝方。\nC. 一个人越在意的递方，就是最令他自卑的递方。\nD. 一个人越在意的地方，就是最令他自卑的地方。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":44,
+    "correspondingPolysyllabicLetters":"万",
+    "type1":"Xìngkuī fāxiàn jíshí, cái méiyǒu fāshēng huǒzāi, zhēnshi wànxìng.\nA. 幸亏发现及时，才没有发生火灾，真是腕幸。\nB. 幸亏发现及时，才没有发生火灾，真是万幸。\nC. 幸亏发现及时，才没有发生火灾，真是妧幸。\nD. 幸亏发现及时，才没有发生火灾，真是蔓幸。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":45,
+    "correspondingPolysyllabicLetters":"应",
+    "type1":"Huán dū zhū jiāng zhōuxuán fù tǎo, yīng jiē píngdìng.\nA. 桓督诸将周旋赴讨，英皆平定。\nB. 桓督诸将周旋赴讨，婴皆平定。\nC. 桓督诸将周旋赴讨，应皆平定。\nD. 桓督诸将周旋赴讨，瑛皆平定。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":46,
+    "correspondingPolysyllabicLetters":"可",
+    "type1":"Tā wúlùn zuò shénme shì dōu shànshǐshànzhōng, zhè zhǒng jīngshén hěn kěguì.\nA. 他无论做什么事都善始善终，这种精神很可贵。\nB. 他无论做什么事都善始善终，这种精神很渴贵。\nC. 他无论做什么事都善始善终，这种精神很坷贵。\nD. 他无论做什么事都善始善终，这种精神很岢贵。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":47,
+    "correspondingPolysyllabicLetters":"合",
+    "type1":"Ànzhào xiéyì yāoqiú, gè xiézuò dānwèi chéngdān wèi liánhé bànxué tígōng jiàoyù xùnliàn zīyuán de yìwù. \nA. 按照协议要求，各协作单位承担为联和办学提供教育训练资源的义务。\nB. 按照协议要求，各协作单位承担为联盒办学提供教育训练资源的义务。\nC. 按照协议要求，各协作单位承担为联何办学提供教育训练资源的义务。\nD. 按照协议要求，各协作单位承担为联合办学提供教育训练资源的义务。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":48,
+    "correspondingPolysyllabicLetters":"数",
+    "type1":"Dà duō shǔ shuō dìlǎotiānhuāng, què jí shǎo dào rénlǎozhūhuáng. \nA. 大多属说地老天荒，却极少到人老珠黄。\nB. 大多数说地老天荒，却极少到人老珠黄。\nC. 大多鼠说地老天荒，却极少到人老珠黄。\nD. 大多署说地老天荒，却极少到人老珠黄。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":49,
+    "correspondingPolysyllabicLetters":"提",
+    "type1":"Gōngyè zhì yǎng tíqǔ de yǎngqì, chúndù jiào gāo, qízhōng de zázhí shì wēihūqíwēi de.\nA. 工业制氧题取的氧气，纯度较高，其中的杂质是微乎其微的。\nB. 工业制氧缇取的氧气，纯度较高，其中的杂质是微乎其微的。\nC. 工业制氧提取的氧气，纯度较高，其中的杂质是微乎其微的。\nD. 工业制氧醍取的氧气，纯度较高，其中的杂质是微乎其微的。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":50,
+    "correspondingPolysyllabicLetters":"长",
+    "type1":"Wèile zēngzhǎng zhīshì, wǒmen yào guǎngfàn de yuèdú bùtóng zhǒnglèi de shūjí.\nA. 为了增长知识，我们要广泛地阅读不同种类的书籍。\nB. 为了增涨知识，我们要广泛地阅读不同种类的书籍。\nC. 为了增掌知识，我们要广泛地阅读不同种类的书籍。\nD. 为了增仉知识，我们要广泛地阅读不同种类的书籍。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":51,
+    "correspondingPolysyllabicLetters":"并",
+    "type1":" Jiānchí wūrǎn fángzhì yǔ shēngtài bǎohù bìngzhòng, shíxiàn jīngjì yǔ huánjìng shuāngyíng.\nA. 坚持污染防治与生态保护禀重，实现经济与环境双赢。\nB. 坚持污染防治与生态保护秉重，实现经济与环境双赢。\nC. 坚持污染防治与生态保护兵重，实现经济与环境双赢。\nD. 坚持污染防治与生态保护并重，实现经济与环境双赢。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":52,
+    "correspondingPolysyllabicLetters":"干",
+    "type1":"Wǒguó zhèngfǔ fābiǎo shēngmíng, duì mǒuguó zhèngfǔ gānshè wǒguó nèizhèng biǎoshì qiángliè kàngyì.\nA. 我国政府发表声明，对某国政府赶涉我国内政表示强烈抗议。\nB. 我国政府发表声明，对某国政府干涉我国内政表示强烈抗议。\nC. 我国政府发表声明，对某国政府杆涉我国内政表示强烈抗议。\nD. 我国政府发表声明，对某国政府柑涉我国内政表示强烈抗议。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":53,
+    "correspondingPolysyllabicLetters":"假",
+    "type1":"Zhè duàn shíjiān liúgǎn bàofā, bān lǐ jīhū yībàn de tóngxué dōu qǐngle bìngjià.  \nA. 这段时间流感爆发，班里几乎一半的同学都请了病架。\nB. 这段时间流感爆发，班里几乎一半的同学都请了病加。\nC. 这段时间流感爆发，班里几乎一半的同学都请了病假。\nD. 这段时间流感爆发，班里几乎一半的同学都请了病嘉。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":54,
+    "correspondingPolysyllabicLetters":"当",
+    "type1":"Jǐn yú 3 yuè 20 rì xīngqí yī zài bāng dé jiē bàngōngshì hòu jiào, qǐng guì gōngsī dàibiǎo yú dāngrì zǎoshang 9 shí lìlín lǐngdǎo.\nA. 谨于3月20日星期一在邦德街办公室候教，请贵公司代表于当日早上9时莅临领导。\nB. 谨于3月20日星期一在邦德街办公室候教，请贵公司代表于档日早上9时莅临领导。\nC. 谨于3月20日星期一在邦德街办公室候教，请贵公司代表于挡日早上9时莅临领导。\nD. 谨于3月20日星期一在邦德街办公室候教，请贵公司代表于裆日早上9时莅临领导。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":55,
+    "correspondingPolysyllabicLetters":"期",
+    "type1":"Yīnwèi tāmen yào dì dì duō, qiánqí dì yī qí jiù yàole 2 qiān mǔ, gānghǎo jiù bǎ wǒ yào de zhè 15 mǔ de yě suàn zài lǐmiànle.  \nA. 因为他们要的地多,前期第一期就要了2千亩,刚好就把我要的这15亩地也算在里面了。\nB. 因为他们要的地多,前期第一期就要了2千亩,刚好就把我要的这15亩地也算在里面了。\nC. 因为他们要的地多,前期第一期就要了2千亩,刚好就把我要的这15亩地也算在里面了。\nD. 因为他们要的地多,前期第一期就要了2千亩,刚好就把我要的这15亩地也算在里面了。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":56,
+    "correspondingPolysyllabicLetters":"乐",
+    "type1":"Qīngchūn jiù xiàng shì qiè yángcōng, wǒmen dōu lèi liú mǎnmiàn, què hái lècǐbùpí.\nA. 青春就像是切洋葱，我们都泪流满面，却还了此不疲。\nB. 青春就像是切洋葱，我们都泪流满面，却还乐此不疲。\nC. 青春就像是切洋葱，我们都泪流满面，却还叻此不疲。\nD. 青春就像是切洋葱，我们都泪流满面，却还勒此不疲。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":57,
+    "correspondingPolysyllabicLetters":"别",
+    "type1":"Wèile nàxiē yòng biézhēn bié zài póniáng yāo shēnshang de rǎnle sè de jié piàn, chūmài nǐ de línghún ba. \nA. 为了那些用憋针别在婆娘腰身上的染了色的节片,出卖你的灵魂吧.\nB. 为了那些用苾针别在婆娘腰身上的染了色的节片,出卖你的灵魂吧.\nC. 为了那些用别针别在婆娘腰身上的染了色的节片,出卖你的灵魂吧.\nD. 为了那些用瘪针别在婆娘腰身上的染了色的节片,出卖你的灵魂吧.",
+    "correctAnswer":"C"
+  },
+  {
+    "No":58,
+    "correspondingPolysyllabicLetters":"少",
+    "type1":"Běnwén dé chū de lǔ bàng duì jiǎo yōushì bǎozhèng lǔ bàng wěndìng de jiéguǒ shì jiào shǎo bǎoshǒu xìng de.\nA. 本文得出的鲁棒对角优势保证鲁棒稳定的结果是较少保守性的。\nB. 本文得出的鲁棒对角优势保证鲁棒稳定的结果是较烧保守性的。\nC. 本文得出的鲁棒对角优势保证鲁棒稳定的结果是较稍保守性的。\nD. 本文得出的鲁棒对角优势保证鲁棒稳定的结果是较绍保守性的。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":59,
+    "correspondingPolysyllabicLetters":"空",
+    "type1":"Wǒmen bùdàn yào yǒu qiángdà de lùjūn, hái yào jiànshè qiángdà dì hǎijūn hé kōngjūn.\nA. 我们不但要有强大的陆军，还要建设强大的海军和倥军。\nB. 我们不但要有强大的陆军，还要建设强大的海军和控军。\nC. 我们不但要有强大的陆军，还要建设强大的海军和崆军。\nD. 我们不但要有强大的陆军，还要建设强大的海军和空军。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":60,
+    "correspondingPolysyllabicLetters":"为",
+    "type1":"Yóu yùxiǎng jìnxíng yú shíxíng, yóu xīwàng biàn wéi chénggōng, yuán shì rénshēng shìyè zhǎn jìn de zhèngdào.\nA. 由预想进行于实行，由希望变未成功，原是人生事业展进的正道。\nB. 由预想进行于实行，由希望变为成功，原是人生事业展进的正道。\nC. 由预想进行于实行，由希望变位成功，原是人生事业展进的正道。\nD. 由预想进行于实行，由希望变维成功，原是人生事业展进的正道。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":61,
+    "correspondingPolysyllabicLetters":"奇",
+    "type1":"Yītiān wǎnshàng, tiān jiàng dàxuě, qí lěng wúbǐ, fēi yàn zhàn zài xuě dì, děnghòu shè zhě.\nA. 一天晚上，天降大雪，齐冷无比，飞燕站在雪地,等候射者。\nB. 一天晚上，天降大雪，棋冷无比，飞燕站在雪地,等候射者。\nC. 一天晚上，天降大雪，奇冷无比，飞燕站在雪地,等候射者。\nD. 一天晚上，天降大雪，旗冷无比，飞燕站在雪地,等候射者。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":62,
+    "correspondingPolysyllabicLetters":"把",
+    "type1":"Nǐ yě chū bǎ lì, wǒ yě shēn bǎshǒu, gǎishàn shēngcún dà huánjìng, rén rén zuò gòngxiàn.\nA. 你也出把力，我也伸把手，改善生存大环境，人人做贡献。\nB. 你也出把力，我也伸拔手，改善生存大环境，人人做贡献。\nC. 你也出把力，我也伸芭手，改善生存大环境，人人做贡献。\nD. 你也出把力，我也伸靶手，改善生存大环境，人人做贡献。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":63,
+    "correspondingPolysyllabicLetters":"暴",
+    "type1":"Jiānchí bùxiè shì chénggōng de yāo jiàn, yī pù shí hán zé shì ruòzhě de jíkǒu.\nA. 坚持不懈是成功的要件，一铺十寒则是弱者的藉口。\nB. 坚持不懈是成功的要件，一扑十寒则是弱者的藉口。\nC. 坚持不懈是成功的要件，一浦十寒则是弱者的藉口。\nD. 坚持不懈是成功的要件，一暴十寒则是弱者的藉口。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":64,
+    "correspondingPolysyllabicLetters":"背",
+    "type1":"Yī bù xiǎoxīn, yī bèi cháihuǒ bèi diào zài dìxiàle.\nA. 一不小心，一碑柴火被掉在地下了。\nB. 一不小心，一背柴火被掉在地下了。\nC. 一不小心，一辈柴火被掉在地下了。\nD. 一不小心，一惫柴火被掉在地下了。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":65,
+    "correspondingPolysyllabicLetters":"奔",
+    "type1":"Xīlā tóng yīgè yǒu fù zhī fū sībēnle, cóngcǐ tā yǒngyuǎn chéngle jiātíng zhōng de bàilèi.\nA. 希拉同一个有妇之夫私贲了，从此他永远成了家庭中的败类。\nB. 希拉同一个有妇之夫私苯了，从此他永远成了家庭中的败类。\nC. 希拉同一个有妇之夫私奔了，从此他永远成了家庭中的败类。\nD. 希拉同一个有妇之夫私笨了，从此他永远成了家庭中的败类。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":66,
+    "correspondingPolysyllabicLetters":"辟",
+    "type1":"Guó dì dìlǐ tèzhēng duōyàng qiě fēngfù, zhòngduō shānmài, héliú hé húbó wèi zhè piàn tǔdì bì chūle dútè de zìrán jǐngguān\nA. 国的地理特征多样且丰富，众多山脉、河流和湖泊为这片土地辟出了独特的自然景观。\nB. 国的地理特征多样且丰富，众多山脉、河流和湖泊为这片土地壁出了独特的自然景观。\nC. 国的地理特征多样且丰富，众多山脉、河流和湖泊为这片土地癖出了独特的自然景观。\nD. 国的地理特征多样且丰富，众多山脉、河流和湖泊为这片土地僻出了独特的自然景观。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":67,
+    "correspondingPolysyllabicLetters":"差",
+    "type1":"Zhōngguó de yǐnshí wénhuà chāyì xiǎnzhù, nánběi fāng de kǒuwèi, shícái xuǎnzé děng fāngmiàn cúnzài míngxiǎn de chāyì.\nA. 中国的饮食文化槎异显著，南北方的口味、食材选择等方面存在明显的差异。\nB. 中国的饮食文化差异显著，南北方的口味、食材选择等方面存在明显的槎异。\nC. 中国的饮食文化槎异显著，南北方的口味、食材选择等方面存在明显的槎异。\nD. 中国的饮食文化差异显著，南北方的口味、食材选择等方面存在明显的差异。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":68,
+    "correspondingPolysyllabicLetters":"场",
+    "type1":"Zài zhōngguó de chéngshì zhōng, shāngchǎng shì gòuwù hé yúlè de tèdìng dìdiǎn. \nA. 在中国的城市中，商昌是购物和娱乐的特定地点.\nB. 在中国的城市中，商场是购物和娱乐的特定地点.\nC. 在中国的城市中，商畅是购物和娱乐的特定地点.\nD. 在中国的城市中，商肠是购物和娱乐的特定地点.",
+    "correctAnswer":"B"
+  },
+  {
+    "No":69,
+    "correspondingPolysyllabicLetters":"臭",
+    "type1":" “Tā duì zhège gōngzuò chòu rèxīn”, zhèlǐ de “chòu” jiùshì biǎoshì tā duì gōngzuò de rèqíng chéngdù fēicháng shēn.\nA. “他对这个工作臭热心”，这里的“筹”就是表示他对工作的热情程度非常深。\nB. “他对这个工作臭热心”，这里的“愁”就是表示他对工作的热情程度非常深。\nC. “他对这个工作臭热心”，这里的“臭”就是表示他对工作的热情程度非常深。\nD. “他对这个工作臭热心”，这里的“仇”就是表示他对工作的热情程度非常深。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":70,
+    "correspondingPolysyllabicLetters":"冲",
+    "type1":"Zhōngguó de huánghé shì zhōngguó de dì èr chánghé, tā de shuǐliú cóng qīngzàng gāoyuán chōng xiàng dōngfāng, zuìhòu liúrù bóhǎi.\nA. 中国的黄河是中国的第二长河，它的水流从青藏高原冲向东方，最后流入渤海。\nB. 中国的黄河是中国的第二长河，它的水流从青藏高原充向东方，最后流入渤海。\nC. 中国的黄河是中国的第二长河，它的水流从青藏高原忡向东方，最后流入渤海。\nD. 中国的黄河是中国的第二长河，它的水流从青藏高原祌向东方，最后流入渤海。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":71,
+    "correspondingPolysyllabicLetters":"处",
+    "type1":"Zài zhōngguó zhèngfǔ de gège bùmén hé jīgòu zhōng, lèisì de chù jí dānwèi bùshèng méi jǔ.\nA. 在中国政府的各个部门和机构中，类似的触级单位不胜枚举。\nB. 在中国政府的各个部门和机构中，类似的初级单位不胜枚举。\nC. 在中国政府的各个部门和机构中，类似的褚级单位不胜枚举。\nD. 在中国政府的各个部门和机构中，类似的处级单位不胜枚举。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":72,
+    "correspondingPolysyllabicLetters":"畜",
+    "type1":"Zhōngguó zuòwéi shìjiè shàng rénkǒu zuìduō de guójiā zhī yī, xùmù yè zài guómín jīngjì zhōng zhànyǒu jǔzúqīngzhòng dì dìwèi.\nA. 中国作为世界上人口最多的国家之一，续牧业在国民经济中占有举足轻重的地位。\nB. 中国作为世界上人口最多的国家之一，畜牧业在国民经济中占有举足轻重的地位。\nC. 中国作为世界上人口最多的国家之一，徐牧业在国民经济中占有举足轻重的地位。\nD. 中国作为世界上人口最多的国家之一，旭牧业在国民经济中占有举足轻重的地位。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":73,
+    "correspondingPolysyllabicLetters":"得",
+    "type1":"Zhōngguó zài jīngjì jiànshè zhōng qǔdéle jùdà de chéngjiù, dédàole shìjiè de guǎngfàn rènkě.\nA. 中国在经济建设中取得了巨大的成就，的到了世界的广泛认可。\nB. 中国在经济建设中取得了巨大的成就，嘚到了世界的广泛认可。\nC. 中国在经济建设中取得了巨大的成就，得到了世界的广泛认可。\nD. 中国在经济建设中取得了巨大的成就，棏到了世界的广泛认可。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":74,
+    "correspondingPolysyllabicLetters":"创",
+    "type1":"Zài zhōngguó, chuàngyè chuàngxīn yǐjīng chéngwéi yī zhǒng shèhuì fēngshàng.\nA. 在中国，创业创新已经成为一种社会风尚。\nB. 在中国，创业怆新已经成为一种社会风尚。\nC. 在中国，怆业创新已经成为一种社会风尚。\nD. 在中国，怆业怆新已经成为一种社会风尚。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":75,
+    "correspondingPolysyllabicLetters":"大",
+    "type1":"Zhōngguó de lǐngtǔ miànjī shì shìjiè shàng dì sān dà de, jǐn cì yú èluósī hé jiānádà.\nA. 中国的领土面积是世界上第三大的，仅次于俄罗斯和加拿达。\nB. 中国的领土面积是世界上第三大的，仅次于俄罗斯和加拿哒。\nC. 中国的领土面积是世界上第三大的，仅次于俄罗斯和加拿鞑。\nD. 中国的领土面积是世界上第三大的，仅次于俄罗斯和加拿大。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":76,
+    "correspondingPolysyllabicLetters":"单",
+    "type1":"“Shǐjì·xiōngnú lièzhuàn” jiù xiángxì jìzǎile xiōngnú chán yú de shìxì hé lìshǐ.\nA. 《史记·匈奴列传》就详细记载了匈奴丹于的世系和历史。\nB. 《史记·匈奴列传》就详细记载了匈奴单于的世系和历史。\nC. 《史记·匈奴列传》就详细记载了匈奴馋于的世系和历史。\nD. 《史记·匈奴列传》就详细记载了匈奴铲于的世系和历史。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":77,
+    "correspondingPolysyllabicLetters":"卡",
+    "type1":"Zài zhōngguó de chúfáng zhōng, chángyòng de qiǎzi shì yī zhǒng jiā shíwù de qìjù, rú jiǎozi jiā hé yú jiā.\nA. 在中国的厨房中，常用的拤子是一种夹食物的器具，如饺子夹和鱼夹。\nB. 在中国的厨房中，常用的掐子是一种夹食物的器具，如饺子夹和鱼夹。\nC. 在中国的厨房中，常用的卡子是一种夹食物的器具，如饺子夹和鱼夹。\nD. 在中国的厨房中，常用的恰子是一种夹食物的器具，如饺子夹和鱼夹。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":78,
+    "correspondingPolysyllabicLetters":"答",
+    "type1":"Zài xuéxiào de kètáng shàng, xuéshēngmen huì dāyìng lǎoshī rènzhēn xuéxí, bùduàn jìnbù.\nA. 在学校的课堂上，学生们会答应老师认真学习，不断进步。\nB. 在学校的课堂上，学生们会搭应老师认真学习，不断进步。\nC. 在学校的课堂上，学生们会嗒应老师认真学习，不断进步。\nD. 在学校的课堂上，学生们会褡应老师认真学习，不断进步。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":79,
+    "correspondingPolysyllabicLetters":"都",
+    "type1":" Zhōngguó de dū tǒngjì shùzì chángcháng yòng lái miáoshù guójiā de zǒngtǐ qíngkuàng.\nA. 中国的睹统计数字常常用来描述国家的总体情况。\nB. 中国的督统计数字常常用来描述国家的总体情况。\nC. 中国的杜统计数字常常用来描述国家的总体情况。\nD. 中国的都统计数字常常用来描述国家的总体情况。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":80,
+    "correspondingPolysyllabicLetters":"会",
+    "type1":"Jīhuì rútóng chūnfēng, chuīfúzhe zhīshì de zhǒngzǐ, shǐ qí zài zhōngguó zhè piàn wòtǔ shàng shēnggēn fāyá.\nA. 机惠如同春风，吹拂着知识的种子，使其在中国这片沃土上生根发芽。\nB. 机会如同春风，吹拂着知识的种子，使其在中国这片沃土上生根发芽。\nC. 机辉如同春风，吹拂着知识的种子，使其在中国这片沃土上生根发芽。\nD. 机慧如同春风，吹拂着知识的种子，使其在中国这片沃土上生根发芽。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":81,
+    "correspondingPolysyllabicLetters":"槛",
+    "type1":"Zài zhōngguó gǔdiǎn yuánlín zhōng, tíng kǎn shì yī zhǒng chángjiàn de jiànzhú yuánsù.\nA. 在中国古典园林中，亭坎是一种常见的建筑元素。\nB. 在中国古典园林中，亭滥是一种常见的建筑元素。\nC. 在中国古典园林中，亭槛是一种常见的建筑元素。\nD. 在中国古典园林中，亭蓝是一种常见的建筑元素。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":82,
+    "correspondingPolysyllabicLetters":"区",
+    "type1":"Zhōngguó de chéngshì tōngcháng bèi huàfēn chéng bùtóng de qūyù, rú shāngyè qū, jūzhù qū hé gōngyè qū.\nA. 中国的城市通常被划分成不同的区域，如商业区、居住区和工业区。\nB. 中国的城市通常被划分成不同的驱域，如商业区、居住区和工业驱。\nC. 中国的城市通常被划分成不同的区域，如商业驱、居住区和工业区。\nD. 中国的城市通常被划分成不同的区域，如商业区、居住区和工业驱。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":83,
+    "correspondingPolysyllabicLetters":"迫",
+    "type1":"Zhōngguó de gāosù fāzhǎn shǐdé rénmen de shēnghuó jiézòu biàn dé yuè lái yuè pòqiè.\nA. 中国的高速发展使得人们的生活节奏变得越来越破切。\nB. 中国的高速发展使得人们的生活节奏变得越来越珀切。\nC. 中国的高速发展使得人们的生活节奏变得越来越魄切。\nD. 中国的高速发展使得人们的生活节奏变得越来越迫切。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":84,
+    "correspondingPolysyllabicLetters":"无",
+    "type1":"Zài piānyuǎn de shānqū, yóuyú jiāotōng bùbiàn, yīxiē jiātíng wúfǎ huòqǔ jíshí de yīliáo jiùzhì.\nA. 在偏远的山区，由于交通不便，一些家庭吴法获取及时的医疗救治。\nB. 在偏远的山区，由于交通不便，一些家庭无法获取及时的医疗救治。\nC. 在偏远的山区，由于交通不便，一些家庭武法获取及时的医疗救治。\nD. 在偏远的山区，由于交通不便，一些家庭悟法获取及时的医疗救治。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":85,
+    "correspondingPolysyllabicLetters":"模",
+    "type1":"Zài zhōngguó chuántǒng xìqǔ zhōng, yǎnyuánmen tōngguò bu tóng de huàzhuāng hé fúshì lái zhǎnxiàn gè zhǒng juésè de múyàng\nA. 在中国传统戏曲中，演员们通过不同的化妆和服饰来展现各种角色的幕样\nB. 在中国传统戏曲中，演员们通过不同的化妆和服饰来展现各种角色的墓样\nC. 在中国传统戏曲中，演员们通过不同的化妆和服饰来展现各种角色的模样\nD. 在中国传统戏曲中，演员们通过不同的化妆和服饰来展现各种角色的慕样",
+    "correctAnswer":"C"
+  },
+  {
+    "No":86,
+    "correspondingPolysyllabicLetters":"糊",
+    "type1":"zài zhōngguó, jiàng hūtú bùjǐn jǐn shì yī zhǒng shǒugōng yìshù jìshù, yěshì yī zhǒng chuántǒng de shípǐn zhìzuò fāngfǎ.\nA. 在中国，糨糊涂不仅仅是一种手工艺术技术，也是一种传统的食品制作方法。\nB. 在中国，糨胡涂不仅仅是一种手工艺术技术，也是一种传统的食品制作方法。\nC. 在中国，糨湖涂不仅仅是一种手工艺术技术，也是一种传统的食品制作方法。\nD. 在中国，糨瑚涂不仅仅是一种手工艺术技术，也是一种传统的食品制作方法。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":87,
+    "correspondingPolysyllabicLetters":"女",
+    "type1":"\"Zhāng hēi rǔ bēi\"shì yīkuài wèiyú zhōngguó hénán shěng xìnyáng shì de shíbēi, jìlùle míng cháo mònián yīgè míng jiào zhāng hēi de nǚzǐ de shìjì.\nA. “张黑如碑”是一块位于中国河南省信阳市的石碑，记录了明朝末年一个名叫张黑的女子的事迹。\nB. “张黑辱碑”是一块位于中国河南省信阳市的石碑，记录了明朝末年一个名叫张黑的女子的事迹。\nC. “张黑濡碑”是一块位于中国河南省信阳市的石碑，记录了明朝末年一个名叫张黑的女子的事迹。\nD. “张黑女碑”是一块位于中国河南省信阳市的石碑，记录了明朝末年一个名叫张黑的女子的事迹。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":88,
+    "correspondingPolysyllabicLetters":"缩",
+    "type1":"Sù shā mì shì yī zhǒng zhōngguó chuántǒng cǎoběn zhíwù, chángjiàn yú zhōngguó nánfāng dìqū, yóuqí zài yúnnán, guǎngxī děng dì \nA. 索砂密是一种中国传统草本植物，常见于中国南方地区，尤其在云南、广西等地。\nB. 缩砂密是一种中国传统草本植物，常见于中国南方地区，尤其在云南、广西等地。\nC. 嗦砂密是一种中国传统草本植物，常见于中国南方地区，尤其在云南、广西等地。\nD. 宿砂密是一种中国传统草本植物，常见于中国南方地区，尤其在云南、广西等地。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":89,
+    "correspondingPolysyllabicLetters":"看",
+    "type1":"Gùkè chángcháng huì zài shì yī jiān lǐ shìkàn yīfú de chǐcùn hé yánsè, yǐ quèbǎo gòumǎi héshì de shāngpǐn\nA. 顾客常常会在试衣间里试勘衣服的尺寸和颜色，以确保购买合适的商品。\nB. 顾客常常会在试衣间里试刊衣服的尺寸和颜色，以确保购买合适的商品。\nC. 顾客常常会在试衣间里试看衣服的尺寸和颜色，以确保购买合适的商品。\nD. 顾客常常会在试衣间里试戡衣服的尺寸和颜色，以确保购买合适的商品。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":90,
+    "correspondingPolysyllabicLetters":"坏",
+    "type1":"Zhōngguó jǐngfāng nǔlì dǎjí fànzuì huódòng, dàibǔle xǔduō huàirén, wéihù shèhuì de āndìng yǔ ānquán.\nA. 中国警方努力打击犯罪活动，逮捕了许多坏人，维护社会的安定与安全。\nB. 中国警方努力打击犯罪活动，逮捕了许多怀人，维护社会的安定与安全。\nC. 中国警方努力打击犯罪活动，逮捕了许多环人，维护社会的安定与安全。\nD. 中国警方努力打击犯罪活动，逮捕了许多还人，维护社会的安定与安全。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":91,
+    "correspondingPolysyllabicLetters":"据",
+    "type1":"Zhōngguó zài xībù dìqū jiànlìle xǔduō biānjìng jùdiǎn, yòng yǐ jiāqiáng biānjìng fángyù hé cùjìn qūyù fāzhǎn.\nA. 中国在西部地区建立了许多边境句点，用以加强边境防御和促进区域发展。\nB. 中国在西部地区建立了许多边境剧点，用以加强边境防御和促进区域发展。\nC. 中国在西部地区建立了许多边境俱点，用以加强边境防御和促进区域发展。\nD. 中国在西部地区建立了许多边境据点，用以加强边境防御和促进区域发展。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":92,
+    "correspondingPolysyllabicLetters":"夸",
+    "type1":"Zài gǔdài shǐshū zhōng, wǒmen chángcháng kěyǐ dú dào miáoshù yīngyǒng de wǔjiàng “kuà bù” shàng qián de chǎngjǐng.\nA. 在古代史书中，我们常常可以读到描述英勇的武将“跨步”上前的场景。\nB. 在古代史书中，我们常常可以读到描述英勇的武将“夸步”上前的场景。\nC. 在古代史书中，我们常常可以读到描述英勇的武将“垮步”上前的场景。\nD. 在古代史书中，我们常常可以读到描述英勇的武将“挎步”上前的场景。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":93,
+    "correspondingPolysyllabicLetters":"车",
+    "type1":"“jū chē bǎo shuài” shì zhōngguó gǔdài de yīgè chéngyǔ, yuán zì yú sòngcháo míngjiàng yuèfēi de gùshì.\nA. “巨车保帅”是中国古代的一个成语，源自于宋朝名将岳飞的故事。\nB. “具车保帅”是中国古代的一个成语，源自于宋朝名将岳飞的故事。\nC. “丢车保帅”是中国古代的一个成语，源自于宋朝名将岳飞的故事。\nD. “炬车保帅”是中国古代的一个成语，源自于宋朝名将岳飞的故事。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":94,
+    "correspondingPolysyllabicLetters":"厂",
+    "type1":" Gōngyè chǎngfáng shì zhīchēng zhōngguó zhìzào yè fāzhǎn de zhòngyào jīchǔ shèshī zhī yī.\nA. 工业厂房是支撑中国制造业发展的重要基础设施之一。\nB. 工业场房是支撑中国制造业发展的重要基础设施之一。\nC. 工业广房是支撑中国制造业发展的重要基础设施之一。\nD. 工业产房是支撑中国制造业发展的重要基础设施之一。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":95,
+    "correspondingPolysyllabicLetters":"尾",
+    "type1":"Zhōngguó gǔdài tiānwénxué jiā gēnjù xīngsù huàfēnle 28 gè xīngsù, qízhōng zhī yī jiùshì wěi sù, tā shì zhǐ tiān'é zuò de yībùfèn.\nA. 中国古代天文学家根据星宿划分了28个星宿，其中之一就是委宿，它是指天鹅座的一部分。\nB. 中国古代天文学家根据星宿划分了28个星宿，其中之一就是威宿，它是指天鹅座的一部分。\nC. 中国古代天文学家根据星宿划分了28个星宿，其中之一就是韦宿，它是指天鹅座的一部分。\nD. 中国古代天文学家根据星宿划分了28个星宿，其中之一就是尾宿，它是指天鹅座的一部分。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":96,
+    "correspondingPolysyllabicLetters":"觉",
+    "type1":"Zài jiàoyù zhōng, jiàoshī hé jiā cháng tōngcháng huì jiàoyù xuéshēng yǎng chéng liánghǎo de zuòxí xíguàn, bù gǔlì shuìlǎnjiào.\nA. 在教育中，教师和家长通常会教育学生养成良好的作息习惯，不鼓励睡懒搅。\nB. 在教育中，教师和家长通常会教育学生养成良好的作息习惯，不鼓励睡懒觉。\nC. 在教育中，教师和家长通常会教育学生养成良好的作息习惯，不鼓励睡懒焦。\nD. 在教育中，教师和家长通常会教育学生养成良好的作息习惯，不鼓励睡懒绞。",
+    "correctAnswer":"B"
+  },
+  {
+    "No":97,
+    "correspondingPolysyllabicLetters":"扇",
+    "type1":"Shān ěrguāng shì yī zhǒng jùyǒu chéngfá xìng de xíngwéi, zài zhōngguó wénhuà zhōngcháng bèi shì wéi yī zhǒng yánlì de chéngjiè huò wǔrǔ.\nA. 煽耳光是一种具有惩罚性的行为，在中国文化中常被视为一种严厉的惩戒或侮辱。\nB. 善耳光是一种具有惩罚性的行为，在中国文化中常被视为一种严厉的惩戒或侮辱。\nC. 扇耳光是一种具有惩罚性的行为，在中国文化中常被视为一种严厉的惩戒或侮辱。\nD. 汕耳光是一种具有惩罚性的行为，在中国文化中常被视为一种严厉的惩戒或侮辱。",
+    "correctAnswer":"C"
+  },
+  {
+    "No":98,
+    "correspondingPolysyllabicLetters":"尽",
+    "type1":"Zài jīngjì fāzhǎn de guòchéng zhōng, xǔduō qǐyè hé gèrén dōu zhǎnxiàn chūle “jìnlì” de jīngshén.\nA. 在经济发展的过程中，许多企业和个人都展现出了“尽力”的精神。\nB. 在经济发展的过程中，许多企业和个人都展现出了“晋力”的精神。\nC. 在经济发展的过程中，许多企业和个人都展现出了“劲力”的精神。\nD. 在经济发展的过程中，许多企业和个人都展现出了“进力”的精神。",
+    "correctAnswer":"A"
+  },
+  {
+    "No":99,
+    "correspondingPolysyllabicLetters":"量",
+    "type1":"Zài zhōngguó de gōngyè shēngchǎn zhōng, chǎnliàng shì zhǐ dānwèi shíjiān nèi shēngchǎn de chǎnpǐn shùliàng.\nA. 在中国的工业生产中，产量是指单位时间内生产的产品数亮。\nB. 在中国的工业生产中，产量是指单位时间内生产的产品数良。\nC. 在中国的工业生产中，产量是指单位时间内生产的产品数梁。\nD. 在中国的工业生产中，产量是指单位时间内生产的产品数量。",
+    "correctAnswer":"D"
+  },
+  {
+    "No":100,
+    "correspondingPolysyllabicLetters":"解",
+    "type1":"Jiè yuán zài gǔdài bèi shì wéi xuéshì yuānbó, cáihuáhéngyì de réncái, yǒuwàng chéngwéi wèilái de guānyuán lǐngxiù\nA. 届元在古代被视为学识渊博、才华横溢的人才，有望成为未来的官员领袖。\nB. 解元在古代被视为学识渊博、才华横溢的人才，有望成为未来的官员领袖。\nC. 阶元在古代被视为学识渊博、才华横溢的人才，有望成为未来的官员领袖。\nD, 介元在古代被视为学识渊博、才华横溢的人才，有望成为未来的官员领袖。",
+    "correctAnswer":"B"
+  }
+]
