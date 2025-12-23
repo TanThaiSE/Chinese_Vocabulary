@@ -72,10 +72,10 @@ export default function Home() {
                 </div>
             </div>
             <div className="side-buttons">
-                <button className="side-button" onClick={() => navigate("/exam1")} style={{backgroundColor:'transparent', border:'none'}}>按钮1</button>
-                <button className="side-button" onClick={() => navigate("/exam2")} style={{backgroundColor:'transparent', border:'none'}}>按钮2</button>
-                <button className="side-button" onClick={() => navigate("/exam3")} style={{backgroundColor:'transparent', border:'none'}}>按钮3</button>
-                <button className="side-button" onClick={() => navigate("/exam4")} style={{backgroundColor:'transparent', border:'none'}}>按钮4</button>
+                <button className="side-button" onClick={() => navigate("/exam1")} style={{backgroundColor:'transparent', border:'none', fontWeight:'800',color:'white',}}>按钮1</button>
+                <button className="side-button" onClick={() => navigate("/exam2")} style={{backgroundColor:'transparent', border:'none', fontWeight:'800',color:'white',}}>按钮2</button>
+                <button className="side-button" onClick={() => navigate("/exam3")} style={{backgroundColor:'transparent', border:'none', fontWeight:'800',color:'white',}}>按钮3</button>
+                <button className="side-button" onClick={() => navigate("/exam4")} style={{backgroundColor:'transparent', border:'none', fontWeight:'800',color:'white',}}>按钮4</button>
             </div>
         </div>
     )
